@@ -2,819 +2,979 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_537",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFL(){return new B.y6(A.aJ("sl"))},
-y6:function y6(d){this.a=d}},A,C
-B=a.updateHolder(c[66],B)
+aau(d,e,f,g){return new B.ER(A.asB(null,e,g),C.aw,f,e,e,$.ak())},
+bo0(d){var x=d.B(y.h)
+return x==null?null:x.f},
+ER:function ER(d,e,f,g,h,i){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g
+_.e=h
+_.H$=_.f=0
+_.G$=i
+_.a3$=_.T$=0
+_.ai$=!1},
+aOA:function aOA(d){this.a=d},
+ug:function ug(d,e,f){this.a=d
+this.b=e
+this.c=f},
+ap7:function ap7(d,e,f){this.b=d
+this.c=e
+this.a=f},
+bsn(d,e,f,g,h,i,j,k,l){return new B.anZ(j,l,h,i,k,f,e,d,null)},
+bN7(d){var x,w,v=d.gu4(d).x
+v===$&&A.c()
+x=d.e
+w=d.d
+if(d.f===0)return A.H(Math.abs(w-v),0,1)
+return Math.abs(v-w)/Math.abs(w-x)},
+aas(d,e,f,g,h,i,j,k,l,m,n){return new B.OZ(m,d,g,f,e,h,n,j,i,k,l,null)},
+P0(d,e,f){return new B.P_(e,d,f,null)},
+aat:function aat(d,e){this.a=d
+this.b=e},
+OY:function OY(d,e){this.a=d
+this.b=e},
+anZ:function anZ(d,e,f,g,h,i,j,k,l){var _=this
+_.e=d
+_.f=e
+_.r=f
+_.x=g
+_.y=h
+_.z=i
+_.Q=j
+_.c=k
+_.a=l},
+bac:function bac(d,e){this.a=d
+this.b=e},
+anY:function anY(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s){var _=this
+_.B9=d
+_.u=e
+_.L=f
+_.a_=g
+_.H=h
+_.G=i
+_.T=j
+_.a3=k
+_.ai=0
+_.p0=l
+_.ou=m
+_.T2$=n
+_.ahK$=o
+_.qY$=p
+_.S$=q
+_.rf$=r
+_.fy=_.fx=null
+_.go=!1
+_.k1=_.id=null
+_.k2=0
+_.a=!1
+_.b=null
+_.c=0
+_.e=_.d=null
+_.r=_.f=!1
+_.w=null
+_.x=!1
+_.y=null
+_.z=!0
+_.Q=null
+_.as=!1
+_.at=null
+_.ax=!1
+_.ay=$
+_.ch=s
+_.CW=!1
+_.cx=$
+_.cy=!0
+_.db=!1
+_.dx=null
+_.dy=!0
+_.fr=null},
+anX:function anX(d,e,f,g,h,i,j,k,l,m){var _=this
+_.ax=d
+_.e=e
+_.f=f
+_.r=g
+_.w=h
+_.x=i
+_.y=j
+_.z=k
+_.c=l
+_.a=m},
+SE:function SE(d,e,f,g,h,i,j,k){var _=this
+_.b=d
+_.c=e
+_.d=f
+_.e=g
+_.f=h
+_.r=i
+_.w=j
+_.Q=_.z=_.y=_.x=null
+_.as=!1
+_.a=k},
+aeI:function aeI(d){this.a=d},
+G1:function G1(d,e){this.a=d
+this.b=e},
+VO:function VO(d,e,f,g,h,i,j,k){var _=this
+_.H=d
+_.G=!1
+_.T=!0
+_.k3=0
+_.k4=e
+_.ok=null
+_.r=f
+_.w=g
+_.x=h
+_.y=i
+_.Q=_.z=null
+_.as=0
+_.ax=_.at=null
+_.ay=!1
+_.ch=!0
+_.CW=!1
+_.cx=null
+_.cy=!1
+_.dx=_.db=null
+_.dy=j
+_.fr=null
+_.H$=0
+_.G$=k
+_.a3$=_.T$=0
+_.ai$=!1},
+anV:function anV(d,e,f,g){var _=this
+_.as=d
+_.a=e
+_.f=f
+_.H$=0
+_.G$=g
+_.a3$=_.T$=0
+_.ai$=!1},
+OZ:function OZ(d,e,f,g,h,i,j,k,l,m,n,o){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.r=g
+_.y=h
+_.at=i
+_.ax=j
+_.ay=k
+_.CW=l
+_.dy=m
+_.fr=n
+_.a=o},
+VP:function VP(d){var _=this
+_.r=_.f=_.e=_.d=null
+_.y=_.x=_.w=$
+_.z=!1
+_.a=null
+_.b=d
+_.c=null},
+ba8:function ba8(){},
+ba4:function ba4(){},
+ba5:function ba5(d,e){this.a=d
+this.b=e},
+ba6:function ba6(d,e){this.a=d
+this.b=e},
+ba7:function ba7(d,e){this.a=d
+this.b=e},
+P_:function P_(d,e,f,g){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.a=g},
+VQ:function VQ(d){var _=this
+_.d=null
+_.f=_.e=$
+_.r=null
+_.x=_.w=0
+_.y=!1
+_.a=null
+_.b=d
+_.c=null},
+ba9:function ba9(d){this.a=d},
+baa:function baa(d,e,f){this.a=d
+this.b=e
+this.c=f},
+bab:function bab(d){this.a=d},
+bam:function bam(d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){var _=this
+_.at=d
+_.ax=e
+_.a=f
+_.b=g
+_.c=h
+_.d=i
+_.e=j
+_.f=k
+_.r=l
+_.w=m
+_.x=n
+_.y=o
+_.z=p
+_.Q=q
+_.as=r},
+apH:function apH(){},
+apX:function apX(){},
+aEQ(d){var x,w,v,u,t,s,r,q
+if(d.length===0)return d
+x=A.b([],y.p)
+for(w=d.length,v=y.a,u=y.Q,t=0,s=0;s<d.length;d.length===w||(0,A.W)(d),++s){r=d[s]
+q=r.a
+x.push(new A.fN(r,q!=null?new A.bw(q,u):new A.bw(t,v)));++t}return x}},C,A,D,J,E
+B=a.updateHolder(c[108],B)
+C=c[2]
 A=c[0]
-C=c[109]
-B.y6.prototype={
-dV(d){return"shrambo "+d+" v GitHubu"},
-fo(d){return"\u010ce si \u017eelite ogledati izvorno kodo za to aplikacijo, odprite "+d+"."},
-gn0(){return"Po\u010disti izbiro"},
-gnC(){return"Ni izbrano"},
-gdW(d){return"Izberi"},
-gdX(){return"Omogo\u010da izbiro (dolg pritisk)"},
-gdY(d){return"Izbrano"},
-gfh(){return"PRIJAVA"},
-gfu(){return"Geslo je bilo posodobljeno v drugi napravi. Prijavite se znova."},
-gft(){return"Ponastavitev pasice"},
-gfs(){return"Ve\u010d dejanj"},
-gfq(){return"Ikona na za\u010detku"},
-gbW(){return"OPUSTI"},
-gfp(){return"Nazaj v galerijo"},
-gfK(){return"Razi\u0161\u010dite"},
-fL(d){return"Raziskovanje "+d},
-fM(d){return"Deljenje z drugimi "+d},
-gfN(){return"Omogo\u010da dotike"},
-gfT(){return"10 najbolj priljubljenih mest za obisk v indijski zvezni dr\u017eavi Tamil Nadu"},
-gfP(){return"\u0160tevilka 10"},
-gca(){return"Thanjavur"},
-gcb(){return"Thanjavur, Tamil Nadu"},
-gfU(){return"Rokodelci ju\u017ene Indije"},
-gfQ(){return"Svilarji"},
-gfO(){return"Chettinad"},
-gfS(){return"Sivaganga, Tamil Nadu"},
-gfV(){return"Tempelj Brihadisvara"},
-gfR(){return"Templji"},
-gnA(){return"Galerija"},
-gnz(){return"Kategorije"},
-ges(){return"Modna aplikacija za nakupovanje"},
-gnd(){return"Aplikacija za novice s poudarkom na vsebini"},
-goi(){return"Aplikacija za osebne finance"},
-goJ(){return"U\u010dinkovita, osredoto\u010dena aplikacija za e-po\u0161to."},
-gdT(){return"Preverjanje"},
-gnN(){return"Doma\u010di prihranki"},
-gnM(){return"Prihranki pri avtomobilu"},
-gnO(){return"Po\u010ditnice"},
-gnQ(){return"Letni donos v odstotkih"},
-gnS(){return"Obrestna mera"},
-gnT(){return"Obresti od za\u010detka leta do danes"},
-gnR(){return"Lani pla\u010dane obresti"},
-gnU(){return"Naslednji izpisek"},
-gnP(){return"Lastnik ra\u010duna"},
-go5(){return"Skupni znesek"},
-go4(){return"Pla\u010dani znesek"},
-go3(){return"Nepla\u010dan znesek"},
-goa(){return"Kavarne"},
-gob(){return"\u017divila"},
-goc(){return"Restavracije"},
-go9(){return"Obla\u010dila"},
-gof(){return"Skupna omejitev"},
-goe(){return"Porabljeni znesek"},
-god(){return"Preostali znesek"},
-gox(){return"Upravljanje ra\u010dunov"},
-goD(){return"Dav\u010dni dokumenti"},
-goA(){return"Geslo in Touch ID"},
-goy(){return"Obvestila"},
-goB(){return"Osebni podatki"},
-goz(){return"Nastavitev brez papirja"},
-gov(){return"Iskanje bankomatov"},
-gow(){return"Pomo\u010d"},
-goC(){return"Odjava"},
-gnV(){return"Skupno"},
-go7(){return"Rok"},
-gog(){return"preostalih sredstev"},
-gnW(){return"Ra\u010duni"},
-go6(){return"Polo\u017enice"},
-goh(){return"Prora\u010duni"},
-gnX(){return"Opozorila"},
-gdU(){return"PRIKA\u017dI VSE"},
-goj(){return"PREOSTALIH SREDSTEV"},
-goH(){return"PREGLED"},
-goE(){return"RA\u010cUNI"},
-goF(){return"POLO\u017dNICE"},
-goG(){return"PRORA\u010cUNI"},
-goI(){return"NASTAVITVE"},
-gon(){return"Prijava v aplikacijo Rally"},
-goo(){return"Nimate ra\u010duna?"},
-goq(){return"REGISTRACIJA"},
-gor(){return"Uporabni\u0161ko ime"},
-gc0(){return"Geslo"},
-gom(){return"Prijava"},
-gop(){return"Zapomni si me"},
-gol(){return"PRIJAVA"},
-o_(d){return"Pozor, porabili ste "+d+" prora\u010duna za nakupovanje za ta mesec."},
-o0(d){return"Ta teden ste porabili "+d+" za restavracije."},
-nY(d){return"Ta mesec ste porabili "+d+" za provizije na bankomatih."},
-nZ(d){return"Bravo. Stanje na transakcijskem ra\u010dunu je "+d+" vi\u0161je kot prej\u0161nji mesec."},
-o1(d){var x="Pove\u010dajte morebitno dav\u010dno olaj\u0161avo. Dodelite kategorije "+d,w=x+" transakcijam brez dodelitev."
-return A.e(d,w,this.a,null,"Pove\u010dajte morebitno dav\u010dno olaj\u0161avo. Dodelite kategorije eni transakciji brez dodelitev.",w,x+" transakcijama brez dodelitev.",null)},
-gos(){return"Ogled vseh ra\u010dunov"},
-got(){return"Ogled vseh polo\u017enic"},
-gou(){return"Ogled vseh prora\u010dunov"},
-nL(d,e,f){return f+" na ra\u010dun \xbb"+d+"\xab s \u0161tevilko "+e+"."},
-o2(d,e,f){return"Rok za pla\u010dilo polo\u017enice \xbb"+d+"\xab z zneskom "+f+" je "+e+"."},
-o8(d,e,f,g){return"Prora\u010dun "+d+" s porabljenimi sredstvi v vi\u0161ini "+A.h(e)+" od "+f+", na voljo \u0161e "+g},
-gh7(){return"Individualno prilagojena aplikacija za potovanja"},
-gny(){return"SLOGI IN DRUGO"},
-gkE(){return"URL-ja ni bilo mogo\u010de prikazati:"},
-gdr(){return"Mo\u017enosti"},
-gkC(){return"Informacije"},
-gjf(){return"Predstavitvena koda"},
-gkf(){return"Dokumentacija za API"},
-gkx(){return"Celozaslonski na\u010din"},
-gjh(){return"KOPIRAJ VSE"},
-gjg(){return"Kopirano v odlo\u017ei\u0161\u010de."},
-ji(d){return"Kopiranje v odlo\u017ei\u0161\u010de ni uspelo: "+A.h(d)},
-gl5(){return"Ogled mo\u017enosti"},
-gl4(){return"Dotaknite se tukaj, \u010de si \u017eelite ogledati razpolo\u017eljive mo\u017enosti za to predstavitev."},
-gef(){return"Nastavitve"},
-gc3(){return"Nastavitve"},
-gc2(){return"Zapiranje nastavitev"},
-gb9(){return"Sistemsko"},
-gea(){return"Prilagajanje besedila"},
-ged(){return"Majhna"},
-gc4(){return"Navadna"},
-gec(){return"Velika"},
-geb(){return"Zelo velika"},
-ge6(){return"Smer besedila"},
-ge8(){return"Na podlagi jezika"},
-ge7(){return"OD LEVE PROTI DESNI"},
-ge9(){return"OD DESNE PROTI LEVI"},
-ge3(){return"Jezik"},
-ge4(){return"Mehanika okolja"},
-gee(){return"Tema"},
-ge0(){return"Temna"},
-ge2(){return"Svetla"},
-ge5(){return"Po\u010dasni posnetek"},
-gdZ(){return"O aplikaciji Flutter Gallery"},
-ge1(){return"Po\u0161iljanje povratnih informacij"},
-ge_(){return"Oblikovali pri podjetju TOASTER v Londonu"},
-gbr(){return"Vrstica aplikacije"},
-giU(){return"Prikazuje podatke in dejanja, povezane s trenutnim zaslonom."},
-giT(){return"Vrstica aplikacije navaja vsebino in dejanja, povezane s trenutnim zaslonom. Uporablja se za ozna\u010devanje blagovne znamke, naslove zaslonov, premikanje in dejanja."},
-gbt(){return"Spodnja vrstica aplikacije"},
-giY(){return"Prika\u017ee krmarjenje in dejanja na dnu"},
-giX(){return"Spodnje vrstice aplikacije omogo\u010dajo dostop do spodnjega predala za krmarjenje in do \u0161tirih dejanj, vklju\u010dno s plavajo\u010dim interaktivnim gumbom."},
-gfw(){return"Izrez"},
-gfz(){return"Polo\u017eaj plavajo\u010dega interaktivnega gumba"},
-gfB(){return"Zasidrano \u2013 na koncu"},
-gfA(){return"Zasidrano \u2013 v sredini"},
-gfD(){return"Plavajo\u010de \u2013 na koncu"},
-gfC(){return"Plavajo\u010de \u2013 na sredini"},
-gbs(){return"Pasica"},
-giW(){return"Prikaz pasice na seznamu"},
-giV(){return"Pasica prika\u017ee pomembno, jedrnato sporo\u010dilo in uporabnikom omogo\u010da dejanja za uporabo ali opustitev pasice. Opustitev pasice terja ukrepanje uporabnika."},
-gj_(){return"Krmarjenju na dnu zaslona"},
-giZ(){return"Krmarjenje na dnu zaslona, ki se postopno prikazuje in izginja"},
-gcH(){return"Trajne oznake"},
-gcI(){return"Izbrana oznaka"},
-gcG(){return"Spodnje vrstice za krmarjenje na dnu zaslona prikazujejo od tri do pet ciljev. Vsak cilj predstavljata ikona in izbirna besedilna oznaka. Ko se uporabnik dotakne ikone za krmarjenje na dnu zaslona, se odpre cilj krmarjenja najvi\u0161je ravni, povezan s to ikono."},
-gj7(){return"Gumbi"},
-gj6(){return"Besedilo, dvignjeno, orisano in drugo."},
-gdG(){return"Gumb za besedilo"},
-gmg(){return"Gumb za besedilo prikazuje pljusk \u010drnila ob pritisku, vendar se ne dvigne. Gumbe za besedilo uporabljajte v orodnih vrsticah, v pogovornih oknih in v vrstici z odmikom."},
-gd_(){return"Dvignjen gumb"},
-gkg(){return"Dvignjeni gumbi dodajo razse\u017enosti ve\u010dinoma ravnim postavitvam. Poudarijo funkcije na mestih z veliko elementi ali \u0161irokih mestih."},
-gds(){return"Orisan gumb"},
-gl6(){return"Orisani gumbi ob pritisku postanejo prosojni in dvignjeni. Pogosto so zdru\u017eeni z dvignjenimi gumbi in ozna\u010dujejo nadomestno, sekundarno dejanje."},
-gdJ(){return"Preklopni gumbi"},
-gmH(){return"Preklopne gumbe je mogo\u010de uporabiti za zdru\u017eevanje sorodnih mo\u017enosti. \u010ce \u017eelite poudariti skupine sorodnih preklopnih gumbov, mora imeti skupina skupni vsebnik"},
-gbI(){return"Plavajo\u010di interaktivni gumb"},
-gkv(){return"Plavajo\u010di interaktivni gumb je gumb z okroglo ikono, ki se prika\u017ee nad vsebino in ozna\u010duje primarno dejanje v aplikaciji."},
-gbu(){return"Kartice"},
-gj9(){return"Kartice za osnovno vrstico z zaobljenimi robovi"},
-gjc(){return"Elementi"},
-gj8(){return"Kartica je list materiala, uporabljenega za ponazoritev povezanih podatkov, na primer albuma, zemljepisne lokacije, obroka, podatkov za stik ipd."},
-gjb(){return"Kompaktni elementi, ki predstavljajo vnos, atribut ali dejanje"},
-gcC(){return"Element za dejanja"},
-giS(){return"Elementi za dejanja so niz mo\u017enosti, ki spro\u017eijo dejanje, povezano z glavno vsebino. Elementi za dejanja se morajo v uporabni\u0161kem vmesniku pojavljati dinami\u010dno in kontekstualno."},
-gcN(){return"Element za izbiro"},
-gjd(){return"Elementi za izbiro predstavljajo posamezno izbiro v nizu. Elementi za izbiro vsebujejo povezano opisno besedilo ali kategorije."},
-gd3(){return"Element za filtre"},
-gku(){return"Elementi za filtre uporabljajo oznake ali opisne besede za filtriranje vsebine."},
-gd6(){return"Element za vnos"},
-gkD(){return"Elementi za vnos predstavljajo zapletene podatke, na primer o subjektu (osebi, mestu ali predmetu) ali pogovornem besedilu, v zgo\u0161\u010deni obliki."},
-gbG(){return"Podatkovne tabele"},
-gk9(){return"Vrstice in stolpci s podatki"},
-gk8(){return"V podatkovnih tabelah so prikazani podatki v vrsticah in stolpcih v obliki mre\u017ee. Podatki so razvr\u0161\u010deni na na\u010din, ki omogo\u010da preprosto pregledovanje, tako da lahko uporabniki i\u0161\u010dejo vzorce in podrobne informacije."},
-giO(){return"Prehrana"},
-giJ(){return"Posladek (1 porcija)"},
-giH(){return"Kalorije"},
-giK(){return"Ma\u0161\u010dobe (g)"},
-giI(){return"Ogljikovi hidrati (g)"},
-giM(){return"Beljakovine (g)"},
-giN(){return"Sol (mg)"},
-giG(){return"Kalcij (%)"},
-giL(){return"\u017delezo (%)"},
-gbk(){return"Frozen yogurt"},
-gbn(){return"Ice Cream Sandwich"},
-gbj(){return"Eclair"},
-gbh(){return"Cupcake"},
-gbl(){return"Gingerbread"},
-gbo(){return"Jelly bean"},
-gbp(){return"Lollipop"},
-gbm(){return"Honeycomb"},
-gbi(){return"Donut"},
-gbg(){return"Apple pie"},
-aL(d){return d+" s sladkorjem"},
-aK(d){return d+" z medom"},
-gkd(){return"Pogovorna okna"},
-gkc(){return"Preprosto, opozorila in celozaslonsko"},
-gcE(){return"Opozorilo"},
-gcD(){return"Opozorilno pogovorno okno obve\u0161\u010da uporabnika o primerih, v katerih se zahteva potrditev. Opozorilno pogovorno okno ima izbirni naslov in izbirni seznam dejanj."},
-gcF(){return"Opozorilo z naslovom"},
-gdB(){return"Preprosto"},
-gm_(){return"Preprosto pogovorno okno omogo\u010da uporabniku izbiro med ve\u010d mo\u017enostmi. Preprosto pogovorno okno ima izbirni naslov, ki je prikazan nad izbirami."},
-gbH(){return"Razdelilna \u010drta"},
-gke(){return"Razdelilna \u010drta je tanka \u010drta, ki zdru\u017euje vsebino v seznamih in postavitvah."},
-gcZ(){return"Razdelilne \u010drte je mogo\u010de uporabljati za sezname, predale in drugje za lo\u010devanje vsebine."},
-gdK(){return"Navpi\u010dna razdelilna \u010drta"},
-gd5(){return"Mre\u017eni seznami"},
-gkB(){return"Postavitev z vrsticami in stolpci"},
-gbJ(){return"Mre\u017eni seznami so najbolj primerni za predstavljanje homogenih podatkov, in sicer obi\u010dajno slik. Posameznemu elementu na mre\u017enem seznamu pravimo plo\u0161\u010dica."},
-gkA(){return"Samo slika"},
-gkz(){return"Z glavo"},
-gky(){return"Z nogo"},
-gbQ(){return"Drsniki"},
-gm7(){return"Pripomo\u010dki za izbiranje vrednosti z vle\u010denjem"},
-gm4(){return"Drsniki odra\u017eajo niz vrednosti vzdol\u017e vrstice, izmed katerih lahko uporabniki izberejo posamezno vrednost. Kot nala\u0161\u010d so za prilagajanje nastavitev, kot je glasnost ali svetlost, ali uveljavljanje filtrov za slike."},
-gdt(){return"Drsniki za obseg"},
-glc(){return"Drsniki odra\u017eajo niz vrednosti vzdol\u017e vrstice. Na obeh koncih vrstice imajo lahko ikoni, ki odra\u017eata obseg vrednosti. Kot nala\u0161\u010d so za prilagajanje nastavitev, kot je glasnost ali svetlost, ali uveljavljanje filtrov za slike."},
-gcW(){return"Drsniki po meri"},
-gk7(){return"Drsniki odra\u017eajo niz vrednosti vzdol\u017e vrstice, izmed katerih lahko uporabniki izberejo posamezno vrednost ali obseg vrednosti. Drsnikom je mogo\u010de dolo\u010diti temo in jih prilagoditi."},
-gm3(){return"Neprekinjeno s \u0161tevilsko vrednostjo, ki jo je mogo\u010de urediti"},
-gdC(){return"Diskretno"},
-gm5(){return"Diskretni drsnik s temo po meri"},
-gm2(){return"Drsnik z neprekinjenim obsegom in temo po meri"},
-gm1(){return"Neprekinjeno"},
-gm6(){return"\u0160tevilska vrednost, ki jo je mogo\u010de urediti"},
-gdj(){return"Meni"},
-gjq(){return"Kontekstni meni"},
-gld(){return"Meni z razdelki"},
-gm0(){return"Preprosti meni"},
-gja(){return"Meni s kontrolnim seznamom"},
-gkR(){return"Menijski gumbi in preprosti meniji"},
-gb4(){return"Meni prika\u017ee seznam izbir na za\u010dasni povr\u0161ini. Prika\u017eejo se, ko uporabniki uporabijo gumb, dejanje ali drug kontrolnik."},
-gkO(){return"Prvi menijski element"},
-gkQ(){return"Drugi menijski element"},
-gkP(){return"Tretji menijski element"},
-gdf(){return"Ena"},
-gdk(){return"Dve"},
-gdi(){return"Tri"},
-gdd(){return"\u0160tiri"},
-gkK(){return"Element s kontekstnim menijem"},
-gda(){return"Prvi element kontekstnega menija"},
-gkI(){return"Onemogo\u010den menijski element"},
-gdc(){return"Tretji element kontekstnega menija"},
-gkL(){return"Element z menijem z razdelki"},
-gdg(){return"Predogled"},
-gbL(){return"Deli"},
-gde(){return"Pridobi povezavo"},
-gdh(){return"Odstrani"},
-bK(d){return"Izbrano: "+d},
-kN(d){return"Potrjeno: "+d.l(0)},
-gbN(){return"Predal za krmarjenje"},
-gkW(){return"Prikazuje predal v vrstici z aplikacijami."},
-gkV(){return"Podokno materialnega oblikovanja, ki v aplikaciji pridrsa vodoravno z roba zaslona in prika\u017ee povezave za krmarjenje."},
-gl0(){return"Uporabni\u0161ko ime"},
-gl_(){return"uporabni\u0161ko.ime@primer.si"},
-gkY(){return"Element ena"},
-gkZ(){return"Element dve"},
-gkX(){return"Povlecite z roba ali se dotaknite ikone v spodnjem levem kotu, \u010de \u017eelite prikazati predal."},
-gbO(){return"\u010crta za krmarjenje"},
-gl2(){return"Prikaz \u010drte za krmarjenje v aplikaciji."},
-gl1(){return"Pripomo\u010dek materialnega oblikovanja, ki naj bi bil prikazan levo ali desno od aplikacije in naj bi omogo\u010dal krmarjenje med manj\u0161im \u0161tevilom pogledom \u2013 obi\u010dajno med tremi in petimi."},
-gdm(){return"1."},
-gdn(){return"2."},
-gdq(){return"3."},
-gkM(){return"Element s preprostim menijem"},
-gkJ(){return"Element z menijem s kontrolnim seznamom"},
-gd4(){return"Celozaslonsko"},
-gkw(){return"Element fullscreenDialog dolo\u010da, ali je dohodna stran celozaslonsko pogovorno okno"},
-gbw(){return"Indikator dejavnosti"},
-gjt(){return"Indikatorji dejavnosti v slogu iOSa"},
-gjs(){return"Indikator dejavnosti v slogu iOSa, ki se vrti v desno."},
-gbx(){return"Gumbi"},
-gjx(){return"Gumbi v slogu iOSa"},
-gjw(){return"Gumb v slogu iOSa. Vsebuje besedilo in/ali ikono, ki se zatemni ali odtemni ob dotiku. Lahko ima tudi ozadje."},
-gby(){return"Kontekstni meni"},
-gjC(){return"Kontekstni meni v slogu iOSa"},
-gjB(){return"Celozaslonski kontekstni meni v slogu iOSa, ki se pojavi po dolgem pritisku elementa."},
-gjy(){return"Prvo dejanje"},
-gjA(){return"Drugo dejanje"},
-gjz(){return"Pridr\u017eite logotip za Flutter, \u010de si \u017eelite ogledati kontekstni meni."},
-gjv(){return"Opozorila"},
-gju(){return"Opozorilna pogovorna okna v slogu iOSa"},
-gcT(){return"Opozorilo"},
-gb3(){return"Opozorilno pogovorno okno obve\u0161\u010da uporabnika o primerih, v katerih se zahteva potrditev. Opozorilno pogovorno okno ima izbirni naslov, izbirno vsebino in izbirni seznam dejanj. Naslov je prikazan nad vsebino in dejanja so prikazana pod vsebino."},
-gcU(){return"Opozorilo z naslovom"},
-gcS(){return"Opozorilo z gumbi"},
-gcR(){return"Samo opozorilni gumbi"},
-gcQ(){return"Preglednica z dejanji"},
-gjr(){return"Preglednica z dejanji je dolo\u010den slog opozorila, ki uporabniku omogo\u010da najmanj dve mo\u017enosti glede trenutnega konteksta. Preglednica z dejanji ima lahko naslov, dodatno sporo\u010dilo in seznam dejanj."},
-gbz(){return"Vrstica za krmarjenje"},
-gjE(){return"Vrstica za krmarjenje v slogu iOSa"},
-gjD(){return"Vrstica za krmarjenje v slogu iOSa. Vrstica za krmarjenje je orodna vrstica, ki jo sestavlja najmanj naslov strani na sredini orodne vrstice."},
-gbA(){return"Izbirniki"},
-gjJ(){return"Izbirniki v slogu iOSa"},
-gjI(){return"Pripomo\u010dek z izbirnikom v slogu iOSa, s katerim je mogo\u010de izbirati nize, datume, ure ali datum in uro."},
-gjL(){return"\u010casovnik"},
-gjF(){return"Izbirnik"},
-gjG(){return"Datum"},
-gjK(){return"Ura"},
-gjH(){return"Datum in ura"},
-gbD(){return"Segmentirano upravljanje"},
-gjS(){return"Segmentirano upravljanje v slogu iOSa"},
-gjR(){return"Uporablja se za izbiro med ve\u010d mo\u017enostmi, ki se medsebojno izklju\u010dujejo. \u010ce je izbrana ena mo\u017enost segmentiranega upravljanja, druge mo\u017enosti segmentiranega upravljanja niso ve\u010d izbrane."},
-gbE(){return"Drsnik"},
-gjW(){return"Drsnik v slogu iOSa"},
-gjU(){return"Drsnik je mogo\u010de uporabiti za izbiro neprekinjenih ali diskretnih nizov vrednosti."},
-jT(d){return"Neprekinjeno: "+d},
-jV(d){return"Diskretno: "+d},
-gjY(){return"Stikalo v slogu iOSa"},
-gjX(){return"Stikalo se uporablja za preklop stanja vklop/izklop posamezne nastavitve."},
-gcV(){return"Vrstica z zavihki"},
-gk_(){return"Spodnja vrstica z zavihki v slogu iOSa"},
-gjZ(){return"Spodnja vrstica za krmarjenje z zavihki v slogu iOSa. Prikazuje ve\u010d zavihkov z enim aktivnim zavihkov \u2013 privzeto je to prvi zavihek."},
-gcB(){return"Za\u010detek"},
-giE(){return"Klepet"},
-giF(){return"Profil"},
-gbF(){return"Besedilna polja"},
-gk6(){return"Besedilna polja v slogu iOSa"},
-gk0(){return"Besedilno polje uporabniku omogo\u010da vnos besedila \u2013 ali s strojno tipkovnico ali z zaslonsko tipkovnico."},
-gk5(){return"PIN"},
-gbC(){return"Besedilno polje za iskanje"},
-gjQ(){return"Besedilno polje za iskanje v slogu iOSa."},
-gjO(){return"Besedilno polje za iskanje, ki uporabniku omogo\u010da iskanje z vnosom besedila, prav tako pa lahko ponudi in filtrira predloge."},
-gjP(){return"Vnesite nekaj besedila"},
-gbB(){return"Drsna vrstica"},
-gjN(){return"Drsna vrstica v slogu iOSa."},
-gjM(){return"Drsna vrstica, ki zdru\u017ei izbrane podrejene elemente."},
-gkU(){return"Gibanje"},
-gkT(){return"Vsi vnaprej dolo\u010deni vzorci prehodov"},
-gjl(){return"Kartice, seznami in plavajo\u010di gumb"},
-glr(){return"Gumba za naprej in nazaj"},
-glF(){return"Razvr\u0161\u010danje glede na \xbbNedavno predvajano\xab"},
-glN(){return"Ikona gumba za nastavitve"},
-gkq(){return"Krmarjenju na dnu zaslona"},
-gkk(){return"Modalno okno in plavajo\u010di gumb"},
-gcP(){return"Pretvorba vsebnika"},
-gjm(){return"Vzorec pretvorbe vsebnika je zasnovan za prehode med elementi uporabni\u0161kega vmesnika, ki vklju\u010dujejo vsebnik. Ta vzorec ustvari vidno povezavo med dvema elementoma uporabni\u0161kega vmesnika."},
-gjn(){return"Na\u010din pojemanja"},
-gjo(){return"POJEMANJE"},
-gjp(){return"POSTOPNO POJEMANJE"},
-gb5(){return"Naslov"},
-gaS(){return"Sekundarno besedilo"},
-gbM(){return"Sekundarno"},
-gkS(){return"Stran s podrobnostmi"},
-gdl(){return"Element seznama"},
-gbP(){return"Vzorec skupne osi se uporablja za prehode med elementi uporabni\u0161kega vmesnika, ki so v prostorskem ali navigacijskem razmerju. Ta vzorec uporablja skupno spremembo na osi x, y ali z, da okrepi razmerje med elementi."},
-gdw(){return"Skupna os x"},
-glk(){return"NAZAJ"},
-glw(){return"NAPREJ"},
-glo(){return"Izbolj\u0161ajte te\u010daje"},
-gln(){return"Zdru\u017eene kategorije so prikazane kot skupine v va\u0161em viru. To lahko pozneje kadar koli spremenite."},
-glj(){return"Ro\u010dna obrt"},
-glm(){return"Posel"},
-glu(){return"Ilustracije"},
-gls(){return"Oblikovanje"},
-glq(){return"Kulinarika"},
-gll(){return"Zdru\u017eeno"},
-glv(){return"Prikazano posamezno"},
-glz(){return"Pozdravljeni, David Park"},
-glx(){return"Prijavite se s svojim ra\u010dunom"},
-gly(){return"E-po\u0161tni naslov ali telefonska \u0161tevilka"},
-glt(){return"STE POZABILI E-PO\u0160TNI NASLOV?"},
-glp(){return"USTVARI RA\u010cUN"},
-gdz(){return"Skupna os y"},
-glA(){return"268 albumov"},
-glE(){return"A\u2013\u017d"},
-glG(){return"Nedavno predvajano"},
-glD(){return"Album"},
-glC(){return"Izvajalec"},
-glB(){return"min"},
-gdA(){return"Skupna os z"},
-glX(){return"Nastavitve"},
-glK(){return"Burger"},
-glJ(){return"Recept za burger"},
-glV(){return"Sendvi\u010d"},
-glU(){return"Recept za sendvi\u010d"},
-glP(){return"Sladica"},
-glO(){return"Recept za sladico"},
-glZ(){return"Morski rakec"},
-glY(){return"Recept za jed z rakci"},
-glM(){return"Rak"},
-glL(){return"Recept za jed z raki"},
-glI(){return"Sendvi\u010d z govedino"},
-glH(){return"Recept za sendvi\u010d z govedino"},
-glW(){return"Shranjeni recepti"},
-glT(){return"Profil"},
-glR(){return"Obvestila"},
-glS(){return"Zasebnost"},
-glQ(){return"Pomo\u010d"},
-gd2(){return"Postopno pojemanje"},
-gkr(){return"Vzorec postopnega pojemanja se uporablja za prehode med elementi uporabni\u0161kega vmesnika, ki niso v mo\u010dnem medsebojnem razmerju."},
-gkp(){return"Albumi"},
-gks(){return"Fotografije"},
-gkt(){return"Iskanje"},
-gd1(){return"123 fotografij"},
-gd0(){return"Pojemanje"},
-gkl(){return"Vzorec pojemanja se uporablja za elemente uporabni\u0161kega vmesnika, ki se prikazujejo ali izginjajo znotraj meja zaslona, kot je pogovorno okno, ki pojenja na sredini zaslona."},
-gkn(){return"PRIKA\u017dI MODALNO OKNO"},
-gko(){return"PRIKA\u017dI PLAVAJO\u010cI GUMB"},
-gkm(){return"SKRIJ PLAVAJO\u010cI GUMB"},
-gkj(){return"Opozorilno pogovorno okno"},
-gkh(){return"PREKLI\u010cI"},
-gki(){return"ZAVRZI"},
-gbv(){return"Barve"},
-gjk(){return"Vse vnaprej dolo\u010dene barve"},
-gjj(){return"Barvne konstante in konstante barvnih vzorcev, ki predstavljajo barvno paleto materialnega oblikovanja."},
-gbV(){return"Tipografija"},
-gn_(){return"Vsi vnaprej dolo\u010deni besedilni slogi"},
-gmZ(){return"Definicije raznih tipografskih slogov v materialnem oblikovanju."},
-gbq(){return"2D-preoblikovanja"},
-giR(){return"Premikanje, pove\u010dava/pomanj\u0161ava, sukanje"},
-giQ(){return"Dotaknite se, \u010de \u017eelite urejati plo\u0161\u010dice in uporabljati kretnje za pomikanje po prizoru. Vlecite, \u010de se \u017eelite premikati, povlecite s prsti skupaj oz. narazen, \u010de \u017eelite pomanj\u0161ati oziroma pove\u010dati, in sukajte z dvema prstoma. Pritisnite gumb za ponastavitev, \u010de se \u017eelite vrniti v za\u010detni polo\u017eaj."},
-gaJ(){return"GUMB"},
-gj5(){return"List na dnu zaslona"},
-gj4(){return"Trajni in modalni listi na dnu zaslona"},
-gcM(){return"Trajni list na dnu zaslona"},
-gj3(){return"Trajni list na dnu zaslona prikazuje podatke, ki dopolnjujejo glavno vsebino aplikacije. Trajni list na dnu zaslona ostaja viden, tudi ko uporabnik uporablja druge dele aplikacije."},
-gcL(){return"Modalni list na dnu zaslona"},
-gj2(){return"Modalni list na dnu zaslona je nadomestna mo\u017enost za meni ali pogovorno okno in uporabniku prepre\u010duje uporabo preostanka aplikacije."},
-gj0(){return"Dodajanje"},
-gcJ(){return"POKA\u017dI LIST NA DNU ZASLONA"},
-gj1(){return"Glava"},
-cK(d){return"Element "+d},
-gd9(){return"Seznami"},
-gkH(){return"Postavitve seznama, ki omogo\u010da pomikanje"},
-gd8(){return"Ena vrstica s fiksno vi\u0161ino, ki obi\u010dajno vsebuje besedilo in ikono na za\u010detku ali koncu."},
-gl3(){return"Ena vrstica"},
-gmL(){return"Dve vrstici"},
-gkG(){return"Sekundarno besedilo"},
-glb(){return"Indikatorji napredovanja"},
-gla(){return"Linearno, okroglo, nedolo\u010deno"},
-gcO(){return"Okrogli indikator napredovanja"},
-gje(){return"Okrogli indikator napredovanja z materialnim oblikovanjem, ki z vrtenjem nakazuje, da je aplikacija zasedena."},
-gd7(){return"Linearni indikator napredovanja"},
-gkF(){return"Linearni indikator napredovanja z materialnim oblikovanjem, znan tudi kot vrstica napredovanja."},
-gl9(){return"Izbirniki"},
-gl8(){return"Izbira datuma in ure"},
-gcX(){return"Izbirnik datuma"},
-gka(){return"Prika\u017ee pogovorno okno z izbirnikom datuma v slogu materialnega oblikovanja."},
-gdI(){return"Izbirnik ure"},
-gmG(){return"Prika\u017ee pogovorno okno z izbirnikom ure v slogu materialnega oblikovanja."},
-gcY(){return"Izbirnik \u010dasovnega obdobja"},
-gkb(){return"Prika\u017ee pogovorno okno z izbirnikom \u010dasovnega obdobja v slogu materialnega oblikovanja."},
-gl7(){return"POKA\u017dI IZBIRNIK"},
-gmf(){return"Zavihki"},
-gdF(){return"Omogo\u010da pomikanje"},
-gdE(){return"Ne omogo\u010da pomikanja"},
-gme(){return"Zavihki s pogledi, ki omogo\u010dajo neodvisno pomikanje"},
-gdD(){return"Na zavihkih je vsebina organizirana na ve\u010d zaslonih, po naborih podatkov in glede na druge uporabe."},
-gbR(){return"Spodnje obvestilne vrstice"},
-gmc(){return"Spodnje obvestilne vrstice prikazujejo sporo\u010dila na dnu zaslona"},
-gmb(){return"Spodnje obvestilne vrstice uporabnike obve\u0161\u010dajo o procesu, ki ga aplikacija je ali ga bo izvedla. Prikazane so za\u010dasno, in sicer blizu dna zaslona. Ne smejo motiti uporabni\u0161ke izku\u0161nje in uporabniku ni treba ukrepati, da izginejo."},
-gma(){return"PRIKA\u017dI SPODNJO OBVESTILNO VRSTICO"},
-gmd(){return"To je spodnja obvestilna vrstica."},
-gm9(){return"DEJANJE"},
-gm8(){return"Pritisnili ste dejanje spodnje obvestilne vrstice."},
-gli(){return"Kontrolniki za izbiro"},
-glg(){return"Potrditvena polja, izbirni gumbi in stikala"},
-gdu(){return"Potrditveno polje"},
-gle(){return"Potrditvena polja omogo\u010dajo uporabniku izbiro ve\u010d mo\u017enosti iz nabora. Obi\u010dajna vrednost potrditvenega polja je True ali False. Vrednost potrditvenega polja za tri stanja je lahko tudi ni\u010delna."},
-gdv(){return"Izbirni gumb"},
-glf(){return"Z izbirnimi gumbi lahko uporabnik izbere eno mo\u017enost iz nabora. Izbirne gumbe uporabite za izklju\u010dno izbiro, \u010de menite, da mora uporabnik videti vse razpolo\u017eljive mo\u017enosti drugo ob drugi."},
-gaR(){return"Stikalo"},
-glh(){return"Stikala za vklop/izklop spremenijo stanje posamezne mo\u017enosti nastavitev. Z ustrezno oznako v besedilu mora biti jasno, katero mo\u017enost stikalo upravlja in kak\u0161no je njegovo stanje."},
-gbT(){return"Besedilna polja"},
-gmB(){return"Vrstica besedila in \u0161tevilk, ki omogo\u010dajo urejanje"},
-gmh(){return"Besedilna polja uporabnikom omogo\u010dajo vna\u0161anje besedila v uporabni\u0161ki vmesnik. Obi\u010dajno se pojavilo v obrazcih in pogovornih oknih."},
-gmz(){return"Poka\u017ei geslo"},
-gml(){return"Skrij geslo"},
-gmk(){return"Pred po\u0161iljanjem popravite rde\u010de obarvane napake."},
-gmq(){return"Ime je obvezno."},
-gms(){return"Vnesite samo abecedne znake."},
-gmj(){return"(###) ###-#### \u2013 Vnesite telefonsko \u0161tevilko v Zdru\u017eenih dr\u017eavah."},
-gmi(){return"Vnesite geslo."},
-gmu(){return"Gesli se ne ujemata"},
-gmE(){return"Kako vas ljudje kli\u010dejo?"},
-gmo(){return"Ime*"},
-gmF(){return"Na kateri \u0161tevilki ste dosegljivi?"},
-gmv(){return"Telefonska \u0161tevilka*"},
-gdH(){return"Va\u0161 e-po\u0161tni naslov"},
-gbS(){return"E-po\u0161tni naslov"},
-gmC(){return"Povejte nam ve\u010d o sebi (napi\u0161ite na primer, s \u010dim se ukvarjate ali katere konji\u010dke imate)"},
-gmm(){return"Bodite jedrnati, to je zgolj predstavitev."},
-gmn(){return"\u017divljenjska zgodba"},
-gmy(){return"Pla\u010da"},
-gmD(){return"USD"},
-gmr(){return"Najve\u010d 8 znakov."},
-gmt(){return"Geslo*"},
-gmx(){return"Znova vnesite geslo*"},
-gmA(){return"PO\u0160LJI"},
-mp(d,e){return"Telefonska \u0161tevilka osebe "+d+" je "+e},
-gmw(){return"* ozna\u010duje obvezno polje"},
-gbU(){return"Opisi orodja"},
-gmK(){return"Kratko sporo\u010dilo, prikazano ob dolgem pritisku ali premiku mi\u0161kinega kazalca na element"},
-gmI(){return"Opisi orodja zagotavljajo besedilne oznake, ki pomagajo pojasniti funkcijo gumba ali drugega dejanja uporabni\u0161kega vmesnika. Opisi orodja prikazujejo informativno besedilo, kadar uporabniki premaknejo mi\u0161kin kazalec na element, izberejo element ali za dalj \u010dasa pritisnejo element."},
-gmJ(){return"Za dalj \u010dasa pritisnite element ali premaknite mi\u0161kin kazalec nanj, \u010de \u017eelite prikazati opis orodja."},
-gfI(){return"Komentarji"},
-gfG(){return"Koledar"},
-gfE(){return"Ra\u010dun"},
-gfF(){return"Alarm"},
-gfH(){return"Fotoaparat"},
-fJ(d){return"Nadomestni znak za zavihek "+d},
-gaW(){return"Ustvari"},
-dM(d){return"Izbrali ste: \xbb"+d+"\xab"},
-gfW(){return"Vklop lu\u010di"},
-gci(){return"Majhna"},
-gcg(){return"Srednja"},
-gcf(){return"Velika"},
-gcd(){return"Dvigalo"},
-gcj(){return"Pralni stroj"},
-gce(){return"Kamin"},
-gcc(){return"Kolesarjenje"},
-giP(){return"Predstavitvena razli\u010dica"},
-gfv(){return"Spodnja vrstica aplikacije"},
-gnB(){return"Nalaganje"},
-gdL(){return"\u017delite zavre\u010di osnutek?"},
-gna(){return"\u017delite uporabljati Googlovo lokacijsko storitev?"},
-gn9(){return"Naj Google pomaga aplikacijam dolo\u010diti lokacijo. S tem se bodo Googlu po\u0161iljali anonimni podatki o lokaciji, tudi ko se ne izvaja nobena aplikacija."},
-gn3(){return"PREKLI\u010cI"},
-gn5(){return"ZAVRZI"},
-gn4(){return"NE STRINJAM SE"},
-gn2(){return"STRINJAM SE"},
-gnb(){return"Nastavite ra\u010dun za varnostno kopiranje"},
-gn1(){return"Dodaj ra\u010dun"},
-gnc(){return"PRIKA\u017dI POGOVORNO OKNO"},
-gn8(){return"Celozaslonsko pogovorno okno"},
-gn7(){return"SHRANI"},
-gn6(){return"Predstavitev celozaslonskega pogovornega okna"},
-gcz(){return"Gumb"},
-gcA(){return"Z ozadjem"},
-gaQ(){return"Prekli\u010di"},
-gcu(){return"Zavrzi"},
-giC(){return"Ali \u017eelite Zemljevidom omogo\u010diti dostop do lokacije, ko uporabljate aplikacijo?"},
-giB(){return"Va\u0161a trenutna lokacija bo prikazana na zemljevidu in se bo uporabljala za navodila za pot, rezultate iskanja v bli\u017eini in ocenjen \u010das potovanja."},
-gcr(){return"Dovoli"},
-gcv(){return"Ne dovoli"},
-gcw(){return"Izbira priljubljenega posladka"},
-gct(){return"Na spodnjem seznamu izberite priljubljeno vrsto posladka. Na podlagi va\u0161e izbire bomo prilagodili predlagani seznam okrep\u010devalnic na va\u0161em obmo\u010dju."},
-gb1(){return"Skutina torta"},
-gb2(){return"Tiramisu"},
-gb0(){return"Jabol\u010dna pita"},
-gcs(){return"\u010cokoladni brownie"},
-giD(){return"Prika\u017ei opozorilo"},
-gb_(){return"RDE\u010cA"},
-gh5(){return"RO\u017dNATA"},
-gbe(){return"VIJOLI\u010cNA"},
-gh0(){return"MO\u010cNO VIJOLI\u010cNA"},
-gaY(){return"INDIGO"},
-gbd(){return"MODRA"},
-gh2(){return"SVETLOMODRA"},
-gck(){return"CIJAN"},
-gcl(){return"ZELENOMODRA"},
-gaX(){return"ZELENA"},
-gh3(){return"SVETLO ZELENA"},
-gh4(){return"RUMENOZELENA"},
-gh6(){return"RUMENA"},
-gfX(){return"JANTARNA"},
-gaZ(){return"ORAN\u017dNA"},
-gh_(){return"MO\u010cNO ORAN\u017dNA"},
-gfZ(){return"RJAVA"},
-gh1(){return"SIVA"},
-gfY(){return"MODROSIVA"},
-gdP(){return"\u010cenaj"},
-gaT(){return"Thanjavur"},
-gdQ(){return"Chettinad"},
-gc_(){return"Pondicherry"},
-gnG(){return"Tr\u017enica s cvetjem"},
-gnE(){return"Bronaste umetnine"},
-gdR(){return"Tr\u017enica"},
-gdS(){return"Tempelj v Thanjavurju"},
-gnI(){return"Soline"},
-gnJ(){return"Skiroji"},
-gnK(){return"Svilar"},
-gnH(){return"Priprava kosila"},
-gnD(){return"Pla\u017ea"},
-gnF(){return"Ribi\u010d"},
-gbb(){return"Aplikacija za za\u010detek"},
-gfj(){return"Odzivna za\u010detna postavitev"},
-gfl(){return"GUMB"},
-gc9(){return"Dodajanje"},
-gbc(){return"Priljubljeno"},
-gfn(){return"Deljenje z drugimi"},
-gaV(){return"Iskanje"},
-gc8(){return"Naslov"},
-gc7(){return"Podnaslov"},
-gfm(){return"Naslov"},
-gfk(){return"Telo"},
-ba(d){return"Element "+d},
-gew(){return"MENI"},
-gep(){return"VSE"},
-geo(){return"DODATKI"},
-geq(){return"OBLA\u010cILA"},
-ger(){return"DOM"},
-gc5(){return"ODJAVA"},
-gev(){return"Uporabni\u0161ko ime"},
-geu(){return"Geslo"},
-geg(){return"PREKLI\u010cI"},
-gex(){return"NAPREJ"},
-gej(){return"VOZI\u010cEK"},
-eQ(d){return"Koli\u010dina: "+d},
-eP(d){return"x "+d},
-ei(d){var x=""+d
-return A.e(d,x+" IZDELKI",this.a,null,"1 IZDELEK",x+" IZDELKOV",x+" IZDELKA","NI IZDELKOV")},
-geh(){return"PO\u010cISTI VOZI\u010cEK"},
-gen(){return"SKUPNO"},
-gel(){return"Delna vsota:"},
-gek(){return"Po\u0161iljanje:"},
-gem(){return"Davek:"},
-gf3(){return"Torba Vagabond"},
-geZ(){return"O\u010dala Stella"},
-gf8(){return"Pas Whitney"},
-geF(){return"Vrtni okraski na vrvici"},
-gf_(){return"Uhani Strut"},
-gf4(){return"Nogavice z univerzitetnim vzorcem"},
-gf6(){return"Pleteni obesek za klju\u010de"},
-geG(){return"\u010cepica"},
-geX(){return"Enoramna torba"},
-geI(){return"Tri pozla\u010dene mizice"},
-geD(){return"Bakrena \u017ei\u010dnata stala\u017ea"},
-geY(){return"Kerami\u010dni komplet za pomirjanje"},
-geL(){return"\u010cajni komplet Hurrahs"},
-gey(){return"Lon\u010dek v slogu modrega kamna"},
-geS(){return"Posoda za de\u017eevnico"},
-geA(){return"Prti\u010dki iz kamrika"},
-gf0(){return"Okrasni lonci za debelolistnice"},
-geR(){return"Miza za \u0161tiri"},
-geM(){return"Kuhinjski pomo\u010dnik"},
-geC(){return"Pulover ope\u010dnate barve"},
-geU(){return"Tunika z morskim vzorcem"},
-geO(){return"Umazano bela tunika"},
-gf7(){return"Bela \u010drtasta srajca"},
-gc6(){return"Majica iz kamrika"},
-geV(){return"Pulover z vzorcem morskih valov"},
-geH(){return"Jakna gentry"},
-geN(){return"Mornarsko modre hla\u010de"},
-gf5(){return"Majica z V-izrezom (bela)"},
-gf2(){return"Surferska majica"},
-geJ(){return"Rde\u010dkasti \u0161al"},
-geT(){return"Crossover izdelek Ramona"},
-geB(){return"Klasi\u010dna bela srajca"},
-gez(){return"Svetlorde\u010da majica z volan\u010dki"},
-geW(){return"Majica z izrezom na ramah"},
-geK(){return"Sivi ohlapni zgornji del"},
-gf1(){return"Tunika za na pla\u017eo"},
-geE(){return"Majica s \u010drtami"},
-gaU(){return"Iskanje"},
-gfg(){return"Nastavitve"},
-gfe(){return"Odpiranje menija"},
-gfd(){return"Zapiranje menija"},
-gfc(){return"Zapiranje vozi\u010dka"},
-f9(d){var x="Nakupovalni vozi\u010dek, "+d
-return A.e(d,x+" izdelki",this.a,null,"Nakupovalni vozi\u010dek, 1 izdelek",x+" izdelkov",x+" izdelka","Nakupovalni vozi\u010dek, ni izdelkov")},
-gfa(){return"Dodaj v ko\u0161arico"},
-fb(d){return"Odstranitev izdelka "+d},
-gff(){return"Odstranitev elementa"},
-gi3(){return"Okrep\u010devalnice"},
-gi1(){return"Izberite datum"},
-gi5(){return"Izberite \u010das"},
-gco(){return"Izberite lokacijo"},
-gcp(){return"Popotniki"},
-gi4(){return"Izberite izhodi\u0161\u010de"},
-gi2(){return"Izberite cilj"},
-gcn(){return"Izberite datume"},
-i6(d){var x=""+d+" h"
-return A.e(d,x,this.a,null,"1 h",x,x,null)},
-cq(d){var x=""+d+" min"
-return A.e(d,x,this.a,null,"1 min",x,x,null)},
-hx(d,e){return d+" "+e},
-ghy(){return"LETENJE"},
-gi7(){return"SPANJE"},
-gh8(){return"HRANA"},
-gi0(){return"Raziskovanje letov glede na cilj"},
-giA(){return"Raziskovanje kapacitet glede na cilj"},
-ghw(){return"Raziskovanje restavracij glede na cilj"},
-cm(d){var x=""+d
-return A.e(d,x+" postanki",this.a,null,"1 postanek",x+" postankov",x+" postanka","Direktni let")},
-iz(d){var x=""+d
-return A.e(d,x+" razpolo\u017eljive kapacitete",this.a,null,"Ena razpolo\u017eljiva kapaciteta",x+" razpolo\u017eljivih kapacitet",x+" razpolo\u017eljivi kapaciteti","Ni razpolo\u017eljivih kapacitet")},
-hv(d){var x=""+d
-return A.e(d,x+" restavracije",this.a,null,"Ena restavracija",x+" restavracij",x+" restavraciji","Ni restavracij")},
-ghz(){return"Aspen, Zdru\u017eene dr\u017eave"},
-ghB(){return"Big Sur, Zdru\u017eene dr\u017eave"},
-ghL(){return"Dolina Khumbu, Nepal"},
-ghN(){return"Machu Picchu, Peru"},
-ghP(){return"Mal\xe9, Maldivi"},
-ghR(){return"Vitznau, \u0160vica"},
-ghT(){return"Ciudad de Mexico, Mehika"},
-ghV(){return"Gora Rushmore, Zdru\u017eene dr\u017eave"},
-ghX(){return"Singapur"},
-ghZ(){return"Havana, Kuba"},
-ghC(){return"Kairo, Egipt"},
-ghE(){return"Lizbona, Portugalska"},
-ghG(){return"Napa, Zdru\u017eene dr\u017eave"},
-ghI(){return"Bali, Indonezija"},
-gi8(){return"Mal\xe9, Maldivi"},
-gia(){return"Aspen, Zdru\u017eene dr\u017eave"},
-gii(){return"Machu Picchu, Peru"},
-gik(){return"Havana, Kuba"},
-gim(){return"Vitznau, \u0160vica"},
-gip(){return"Big Sur, Zdru\u017eene dr\u017eave"},
-gir(){return"Napa, Zdru\u017eene dr\u017eave"},
-git(){return"Porto, Portugalska"},
-giv(){return"Tulum, Mehika"},
-gix(){return"Lizbona, Portugalska"},
-gib(){return"Kairo, Egipt"},
-gie(){return"Tajpej, Tajska"},
-gh9(){return"Neapelj, Italija"},
-ghb(){return"Dallas, Zdru\u017eene dr\u017eave"},
-ghf(){return"C\xf3rdoba, Argentina"},
-ghh(){return"Portland, Zdru\u017eene dr\u017eave"},
-ghj(){return"Pariz, Francija"},
-ghl(){return"Seul, Ju\u017ena Koreja"},
-ghn(){return"Seattle, Zdru\u017eene dr\u017eave"},
-ghp(){return"Nashville, Zdru\u017eene dr\u017eave"},
-ghr(){return"Atlanta, Zdru\u017eene dr\u017eave"},
-ght(){return"Madrid, \u0160panija"},
-ghc(){return"Lizbona, Portugalska"},
-ghA(){return y.g},
-ghK(){return"\u0160otor na polju"},
-ghM(){return"Molilne zastavice z zasne\u017eeno goro v ozadju"},
-ghO(){return"Trdnjava Machu Picchu"},
-ghQ(){return"Bungalovi nad vodo"},
-ghS(){return"Hotel ob jezeru z gorami v ozadju"},
-ghU(){return"Pogled iz zraka na Palacio de Bellas Artes"},
-ghW(){return"Gora Rushmore"},
-ghY(){return"Supertree Grove"},
-gi_(){return y.d},
-ghD(){return"Stolpi mo\u0161eje al-Azhar ob son\u010dnem zahodu"},
-ghF(){return"Ope\u010dnat svetilnik na morju"},
-ghH(){return"Bazen s palmami"},
-ghJ(){return"Obmorski bazen s palmami"},
-gi9(){return"Bungalovi nad vodo"},
-gih(){return y.g},
-gij(){return"Trdnjava Machu Picchu"},
-gil(){return y.d},
-gio(){return"Hotel ob jezeru z gorami v ozadju"},
-giq(){return"\u0160otor na polju"},
-gis(){return"Bazen s palmami"},
-giu(){return"Barvita stanovanja na trgu Ribeira"},
-giw(){return"Majevske razvaline na pe\u010dini nad obalo"},
-giy(){return"Ope\u010dnat svetilnik na morju"},
-gic(){return"Stolpi mo\u0161eje al-Azhar ob son\u010dnem zahodu"},
-gig(){return"Neboti\u010dnik Taipei 101"},
-gha(){return"Pica v kru\u0161ni pe\u010di"},
-ghe(){return"Prazen bar s stoli v slogu okrep\u010devalnice"},
-ghg(){return"Burger"},
-ghi(){return"Korejski taco"},
-ghk(){return"\u010cokoladni posladek"},
-ghm(){return"Prostor za sedenje v restavraciji z umetni\u0161kim vzdu\u0161jem"},
-gho(){return"Jed z rakci"},
-ghq(){return"Vhod v pekarno"},
-ghs(){return"Porcija sladkovodnega raka"},
-ghu(){return"Kavarni\u0161ki pult s pecivom"},
-ghd(){return"\u017denska, ki dr\u017ei ogromen sendvi\u010d s pastramijem"},
-gnp(){return"Prva stran"},
-gbZ(){return"Svet"},
-gdN(){return"Zdru\u017eene dr\u017eave"},
-gb7(){return"Politika"},
-gnn(){return"Posel"},
-gbY(){return"Tehnologija"},
-gnq(){return"Znanost"},
-gnr(){return"\u0160port"},
-gns(){return"Potovanja"},
-gno(){return"Kultura"},
-gnx(){return"Tehnolo\u0161ko oblikovanje"},
-gnv(){return"Reforme"},
-gnu(){return"Revolucija v zdravstvu"},
-gnt(){return"Zelena vojska"},
-gnw(){return"Delnice"},
-gnm(){return"Zadnje novice"},
-gnj(){return"Tiha, vendar krepka revolucija v zdravstvu"},
-gnl(){return"Lo\u010dena ameri\u0161ka \u017eivljenja med vojno"},
-gni(){return"Prihodnost bencina"},
-gne(){return"Reformiranje zelene vojske od znotraj"},
-gnk(){return"Ob stagnaciji delnic se \u0161tevilni ozirajo k valutam"},
-gng(){return"Oblikovalci si s tehnologijo pomagajo do tkanin prihodnosti"},
-gnh(){return"Feministke nad strankarstvo"},
-gnf(){return"Primanjkljaj \u010debel na de\u017eeli"},
-goL(){return"Prejeto"},
-goO(){return"Z zvezdico"},
-goM(){return"Poslano"},
-goP(){return"Smetnjak"},
-goN(){return"Vsiljena po\u0161ta"},
-goK(){return"Osnutki"},
-gmO(){return"Pregibne"},
-gmN(){return"Tako TwoPane deluje v pregibni napravi."},
-gmU(){return"Majhen zaslon"},
-gmT(){return"Tako TwoPane deluje v napravi z majhnim zaslonom."},
-gmX(){return"Tabli\u010dni/namizni ra\u010dunalniki"},
-gmW(){return"Tako TwoPane deluje v napravi z ve\u010djim zaslonom, kot je tabli\u010dni ali namizni ra\u010dunalnik."},
-gmY(){return"TwoPane"},
-gmV(){return"Odzivne postavitve na pregibnih, velikih in majhnih zaslonih"},
-gfi(){return"Izberite predstavitev"},
-gmR(){return"Seznam"},
-gmM(){return"Podrobnosti"},
-gmS(){return"Izberite element"},
-mP(d){return"Element "+d},
-mQ(d){return"Podrobnosti elementa "+d}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
-x(B.y6,C.D)})()
-A.b7(b.typeUniverse,JSON.parse('{"y6":{"D":[]}}'))
-var y={d:"Mo\u0161ki, naslonjen na starinski modri avtomobil",g:"Planinska ko\u010da v zasne\u017eeni pokrajini z zimzelenimi drevesi"}};
+D=c[137]
+J=c[1]
+E=c[115]
+B.ER.prototype={
+ay5(d,e,f,g){var x,w=this,v=e==null
+if(!v)w.a.sk(0,e)
+v=v?w.d:e
+x=w.a
+return new B.ER(x,w.b,f,v,g,$.ak())},
+gu4(d){var x=this.a
+return x==null?null:x},
+a6U(d,e,f){var x,w=this,v=w.d
+if(d===v||w.c<2)return
+w.e=v
+w.d=d
+v=f!=null&&f.a>0
+x=w.f+1
+if(v){w.f=x
+w.af()
+v=w.a
+v.toString
+x=w.d
+e.toString
+v.z=C.aL
+v.vy(x,e,f).a3G(new B.aOA(w))}else{w.f=x
+w.a.sk(0,d);--w.f
+w.af()}},
+GI(d){return this.a6U(d,null,null)},
+afg(d,e){this.a6U(d,C.Z,e==null?this.b:e)},
+aRc(d){return this.afg(d,null)},
+swM(d,e){var x,w=this.a,v=w.x
+v===$&&A.c()
+x=this.d
+if(e===v-x)return
+w.sk(0,e+x)},
+j(){var x=this.a
+if(x!=null)x.j()
+this.a=null
+this.tM()},
+gF(d){return this.c}}
+B.ug.prototype={
+uj(d,e){var x,w
+if(d instanceof B.ug){x=A.bs(d.b,this.b,e)
+w=A.fh(d.c,this.c,e)
+w.toString
+return new B.ug(null,x,w)}return this.OQ(d,e)},
+uk(d,e){var x,w
+if(d instanceof B.ug){x=A.bs(this.b,d.b,e)
+w=A.fh(this.c,d.c,e)
+w.toString
+return new B.ug(null,x,w)}return this.OR(d,e)},
+AX(d){return new B.ap7(this,this.a,d)},
+Q1(d,e){var x=this.c.Y(e).HR(d),w=x.a,v=this.b.b,u=x.d-v
+return new A.z(w,u,w+(x.c-w),u+v)},
+Jr(d,e){var x,w=this.a
+if(w!=null){x=$.a4().pe()
+x.uV(w.tA(this.Q1(d,e)))
+return x}w=$.a4().pe()
+w.uN(this.Q1(d,e))
+return w}}
+B.ap7.prototype={
+vY(d,e,f){var x,w,v,u=f.e,t=e.a,s=e.b,r=new A.z(t,s,t+u.a,s+u.b)
+u=f.d
+u.toString
+t=this.c
+s=this.b
+x=s.b
+if(t!=null){w=$.a4().bf()
+w.sa9(0,x.a)
+v=s.Q1(r,u)
+u=t.a
+s=t.b
+x=t.d
+d.rG(A.tK(v,t.c,x,u,s),w)}else{w=x.uR()
+w.sGv(C.OH)
+v=s.Q1(r,u).tl(-(x.b/2))
+u=v.d
+d.wA(new A.j(v.a,u),new A.j(v.c,u),w)}}}
+B.aat.prototype={
+O(){return"TabBarIndicatorSize."+this.b}}
+B.OY.prototype={
+O(){return"TabAlignment."+this.b}}
+B.anZ.prototype={
+aLB(d){var x,w,v,u,t,s=this,r={}
+A.o(d)
+x=A.o(d).tk
+w=y.m.a(s.c)
+v=s.x
+u=v==null?x.e:v
+if(u==null)u=s.z.gN_()
+r.a=u
+r.b=null
+if(u instanceof A.GI){r.b=u.c.$1(C.rI)
+r.a=u.c.$1(D.NT)}else{v=s.y
+t=v==null?x.w:v
+if(t==null)t=A.Q(178,u.gk(u)>>>16&255,u.gk(u)>>>8&255,u.gk(u)&255)
+r.b=t}return A.lu(new B.bac(r,w))},
+n(d){var x,w,v,u=this,t=null,s=A.o(d).tk,r=y.m.a(u.c),q=u.r,p=q?D.NT:C.rI,o=u.e,n=o==null?s.r:o
+if(n==null){n=u.z.gwJ()
+n.toString}x=n.agm(!0)
+n=s.x
+o=n==null?o:n
+if(o==null){o=u.z.gO7()
+o.toString}w=o.agm(!0)
+if(q){q=A.c9(x,w,r.gk(r))
+q.toString
+v=q}else{q=A.c9(w,x,r.gk(r))
+q.toString
+v=q}q=u.aLB(d).c.$1(p)
+o=v.aF(q)
+return A.ch(A.hW(u.Q,new A.ct(24,t,t,t,t,q,t,t)),t,t,C.ac,!0,o,t,t,C.M)}}
+B.anY.prototype={
+qP(){var x,w,v,u,t=this
+t.apd()
+x=t.S$
+w=A.b([],y.n)
+for(v=y.L;x!=null;){u=x.b
+u.toString
+v.a(u)
+w.push(u.a.a)
+x=u.aa$}switch(t.G.a){case 0:C.b.wI(w,0,t.gp(t).a)
+break
+case 1:w.push(t.gp(t).a)
+break}v=t.G
+v.toString
+u=t.gp(t)
+t.B9.$3(w,v,u.a)}}
+B.anX.prototype={
+og(d){var x=this,w=null,v=x.US(d)
+v.toString
+v=new B.anY(x.ax,x.e,x.f,x.r,x.w,v,x.y,w,C.d,A.aq(),A.bD(4,A.iC(w,w,w,w,w,C.ab,C.p,w,1,C.M),!1,y.i),!0,0,w,w,A.aq())
+v.of()
+v.ab(0,w)
+return v},
+om(d,e){this.aoi(d,e)
+e.B9=this.ax}}
+B.SE.prototype={
+aH(){this.as=!0},
+aiL(d,e){var x,w,v,u,t,s,r,q,p,o,n=this
+switch(n.y.a){case 0:x=n.x
+w=x[e+1]
+v=x[e]
+break
+case 1:x=n.x
+w=x[e]
+v=x[e+1]
+break
+default:w=null
+v=null}if(n.d===D.auY){x=n.f[e]
+x=$.av.aB$.z.i(0,x)
+u=x.gp(x).a
+t=n.w[e].Y(n.y)
+w+=(v-w-(u+t.gtj()))/2+t.a
+v=w+u}t=n.e
+x=w+(v-w)
+s=0+d.b
+r=new A.z(w,0,x,s)
+q=t.gtj()
+p=t.grh(t)
+o=t.grl(t)
+if(!(x-w>=q&&s-0>=p+o))throw A.l(A.lZ("indicatorPadding insets should be less than Tab Size\nRect Size : "+r.gp(r).l(0)+", Insets: "+t.l(0)))
+return t.HR(r)},
+aE(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null
+l.as=!1
+if(l.Q==null)l.Q=l.c.AX(l.gtg())
+x=l.b
+w=x.d
+x=x.gu4(x).x
+x===$&&A.c()
+v=w>x
+u=v?C.c.tF(x):C.c.uc(x)
+t=C.e.vz(u,0,l.x.length-2)
+u=v?t+1:t-1
+s=C.c.vz(u,0,l.x.length-2)
+x=l.z=A.aJ8(l.aiL(e,t),l.aiL(e,s),Math.abs(x-t))
+u=x.c
+r=x.a
+q=x.d
+x=x.b
+p=l.y
+o=l.r
+if(o!=null){n=$.a4().bf()
+n.sa9(0,o)
+n.sum(1)
+o=e.b
+d.wA(new A.j(0,o),new A.j(e.a,o),n)}o=l.Q
+o.toString
+m=l.z
+o.vY(d,new A.j(m.a,m.b),new A.yy(k,k,k,p,new A.E(u-r,q-x),k))},
+u7(d){var x=this
+return x.as||x.b!==d.b||!x.c.m(0,d.c)||x.f.length!==d.f.length||!A.ec(x.x,d.x)||x.y!=d.y}}
+B.aeI.prototype={
+gqZ(d){var x=this.a
+x=x.gu4(x)
+x.toString
+return x},
+tL(d){var x=this.a
+if(x.gu4(x)!=null)this.a52(d)},
+C(d,e){var x=this.a
+if(x.gu4(x)!=null)this.a51(0,e)},
+gk(d){return B.bN7(this.a)}}
+B.G1.prototype={
+gqZ(d){var x=this.a
+x=x.gu4(x)
+x.toString
+return x},
+tL(d){var x=this.a
+if(x.gu4(x)!=null)this.a52(d)},
+C(d,e){var x=this.a
+if(x.gu4(x)!=null)this.a51(0,e)},
+gk(d){var x=this.a,w=x.gu4(x).x
+w===$&&A.c()
+return A.H(Math.abs(A.H(w,0,x.c-1)-this.b),0,1)}}
+B.VO.prototype={
+A0(d,e){var x,w,v,u=this,t=u.G
+if(!t){t=u.ax
+t.toString
+t=u.G=t!==0}if(!t||u.T){u.T=!1
+t=u.H
+x=u.ax
+x.toString
+w=t.r
+w.toString
+u.at=t.adb(w,x,d,e)
+v=!1}else v=!0
+return u.a5O(d,e)&&v}}
+B.anV.prototype={
+M_(d,e,f){var x=null,w=new B.VO(this.as,C.f_,d,e,!0,x,A.de(!1,y.v),$.ak())
+w.K8(e,x,!0,f,d)
+w.K9(e,x,x,!0,f,d)
+return w}}
+B.OZ.prototype={
+gyR(){var x,w,v,u,t,s
+for(x=this.c,w=x.length,v=y.G,u=46,t=0;t<x.length;x.length===w||(0,A.W)(x),++t){s=x[t]
+if(v.b(s))u=Math.max(s.gyR().b,u)}return new A.E(1/0,u+2)},
+gb_E(){var x,w,v,u,t
+for(x=this.c,w=x.length,v=y.G,u=0;u<x.length;x.length===w||(0,A.W)(x),++u){t=x[u]
+if(v.b(t))if(t.gyR().b===72)return!0}return!1},
+N(){return new B.VP(C.h)},
+$ikt:1}
+B.VP.prototype={
+ac(){var x,w,v=this
+v.au()
+x=v.a.c
+w=A.au(x).h("am<1,jt<G<A>>>")
+v.x=A.ay(new A.am(x,new B.ba8(),w),!0,w.h("bK.E"))
+v.y=A.bD(v.a.c.length,C.A,!0,y.W)},
+gzS(){var x,w=null,v=this.c
+v.toString
+A.o(v)
+v=this.c
+v.toString
+x=this.a.e
+return new B.bam(v,x,w,w,D.auX,w,w,w,w,w,w,w,w,w,w)},
+aB6(d){var x,w,v,u=this,t=u.c
+t.toString
+A.o(t)
+t=u.c
+t.toString
+t=A.o(t)
+x=u.a
+w=x.y
+if(w!=null)return w
+t=t.tk.a
+if(t!=null)return t
+v=x.r
+if(v==null){t=u.c
+t.toString
+v=A.o(t).dy}u.a.toString
+t=v.gk(v)
+x=u.c
+x.toString
+x=A.aFu(x,y.Z)
+if(x==null)x=null
+else{x=x.Z
+x=x==null?null:x.gk(x)}x=t===x
+t=x
+if(t)v=C.m
+u.a.toString
+return new B.ug(null,new A.bC(v,2,C.a9,-1),C.A)},
+gEE(){var x=this.e
+return(x==null?null:x.gu4(x))!=null},
+Lf(){var x,w=this,v=w.a.d
+if(v==null){x=w.c
+x.toString
+v=B.bo0(x)}if(v==w.e)return
+if(w.gEE()){x=w.e
+x.gu4(x).C(0,w.gEM())
+w.e.C(0,w.gY3())}w.e=v
+if(v!=null){x=v.gu4(v)
+x.pl()
+x=x.qX$
+x.b=!0
+x.a.push(w.gEM())
+w.e.a5(0,w.gY3())
+w.r=w.e.d}},
+Yd(){var x,w,v,u,t,s,r,q=this,p=q.c
+p.toString
+A.o(p)
+p=q.c
+p.toString
+p=A.o(p)
+q.a.toString
+x=p.tk.c
+if(x==null){p=q.gzS().c
+p.toString
+w=p}else w=x
+if(!q.gEE())p=null
+else{p=q.e
+p.toString
+v=q.aB6(w)
+q.a.toString
+if(x==null){u=q.gzS().c
+u.toString}else u=x
+q.a.toString
+t=q.x
+t===$&&A.c()
+s=q.f
+r=q.y
+r===$&&A.c()
+p=new B.SE(p,v,u,C.A,t,null,r,p.gu4(p))
+if(s!=null){v=s.x
+s=s.y
+p.x=v
+p.y=s}}q.f=p},
+aM(){this.pb()
+this.Lf()
+this.Yd()},
+ah(d){var x,w,v,u,t,s,r=this
+r.az(d)
+x=r.a
+if(x.d!=d.d){r.Lf()
+r.Yd()
+x=r.d
+if(x!=null&&x.f.length!==0){x=C.b.gtt(x.f)
+if(x instanceof B.VO)x.T=!0}}else{if(J.f(x.r,d.r)){r.a.toString
+x=!C.A.m(0,C.A)||r.a.y!=d.y}else x=!0
+if(x)r.Yd()}x=r.a.c.length
+w=r.x
+w===$&&A.c()
+v=w.length
+if(x>v){u=x-v
+t=J.eM(u,y.U)
+for(x=y.z,s=0;s<u;++s)t[s]=new A.as(null,x)
+C.b.ab(w,t)
+x=r.y
+x===$&&A.c()
+C.b.ab(x,A.bD(u,C.A,!1,y.W))}else if(x<v){C.b.Bs(w,x,v)
+x=r.y
+x===$&&A.c()
+C.b.Bs(x,r.a.c.length,r.x.length)}},
+j(){var x=this,w=x.f.Q
+if(w!=null)w.j()
+if(x.gEE()){w=x.e
+w.gu4(w).C(0,x.gEM())
+x.e.C(0,x.gY3())}x.e=null
+x.a6()},
+adb(d,e,f,g){var x,w,v,u=this
+if(!u.a.e)return 0
+x=u.f.x
+w=(x[d]+x[d+1])/2
+x=u.c.B(y.I)
+x.toString
+switch(x.w.a){case 0:u.a.toString
+x=u.w
+x===$&&A.c()
+w=x-w
+v=0
+break
+case 1:u.a.toString
+v=0
+break
+default:v=null}return A.H(w+v-e/2,f,g)},
+Rl(d){var x,w=C.b.gtt(this.d.f),v=w.ax
+v.toString
+x=w.z
+x.toString
+w=w.Q
+w.toString
+return this.adb(d,v,x,w)},
+Y2(){var x,w,v,u,t,s=this,r=s.e
+if(r.f===0&&s.a.e){r=s.r=r.d
+x=r>0?s.Rl(r-1):null
+r=s.r
+r.toString
+w=s.Rl(r)
+r=s.r
+r.toString
+v=r<s.f.x.length-2?s.Rl(r+1):null
+r=s.e
+u=r.d
+r=r.gu4(r).x
+r===$&&A.c()
+if(r===u-1)t=x==null?w:x
+else if(r===u+1)t=v==null?w:v
+else if(r===u)t=w
+else if(r<u)if(x==null)t=w
+else{r=A.ag(w,x,u-r)
+r.toString
+t=r}else if(v==null)t=w
+else{r=A.ag(w,v,r-u)
+r.toString
+t=r}s.d.uL(t)}},
+aFr(){var x,w=this,v=w.e.d
+if(v!==w.r){w.r=v
+if(w.a.e){x=w.Rl(v)
+w.d.vS(x,C.Z,C.aw)}}w.E(new B.ba4())},
+aM0(d,e,f){var x
+this.w=f
+x=this.f
+if(x!=null){x.x=d
+x.y=e}},
+Kf(d,e,f,g){var x=this.a,w=x.at,v=x.ax
+return B.bsn(f,d,g,!0,e,w,x.ay,v,null)},
+n(a7){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4=this,a5=null,a6=A.o(a7).tk
+a4.a.toString
+x=a4.gzS().gNU()
+w=A.D(a7,C.G,y.y)
+w.toString
+if(a4.e.c===0){a4.a.toString
+return A.a0(a5,a5,C.d,a5,a5,a5,a5,48,a5,a5,a5,a5,a5,a5)}v=A.hY(a4.a.c.length,new B.ba5(a4,a6),y.l)
+u=a4.e
+if(u!=null){t=u.e
+s=u.f
+r=a4.r
+if(s!==0){q=new B.aeI(u)
+r.toString
+v[r]=a4.Kf(v[r],!0,q,a4.gzS())
+v[t]=a4.Kf(v[t],!1,q,a4.gzS())}else{r.toString
+v[r]=a4.Kf(v[r],!0,new B.G1(u,r),a4.gzS())
+u=a4.r
+u.toString
+if(u>0){p=u-1
+u=a4.e
+u.toString
+s=A.b([],y.A)
+v[p]=a4.Kf(v[p],!1,new A.i1(new B.G1(u,p),new A.bo(s,y.X),0),a4.gzS())}u=a4.r
+u.toString
+if(u<a4.a.c.length-1){p=u+1
+u=a4.e
+u.toString
+s=A.b([],y.A)
+v[p]=a4.Kf(v[p],!1,new A.i1(new B.G1(u,p),new A.bo(s,y.X),0),a4.gzS())}}}u=a4.a
+o=u.c.length
+for(s=y.p,r=a6.y,n=y.s,m=y.R,l=y.M,k=x===D.OJ,j=r==null,i=0;i<o;u=h,i=a0){u=A.aZ(l)
+if(i===a4.r)u.K(0,C.R)
+a4.a.toString
+h=A.bG(a5,u,m)
+if(h==null)g=a5
+else g=h
+if(g==null)g=C.cn.Y(u)
+f=new A.cS(new B.ba6(a4,u),n)
+a4.a.toString
+u=j?f:r
+h=a4.gzS().gzP()
+a4.a.toString
+e=v[i]
+d=a4.r
+a0=i+1
+a1=w.Up(o,a0)
+u=A.df(!1,a5,!0,new A.T(new A.X(0,0,0,2),new A.bR(C.T,a5,C.Y,C.r,A.b([e,new A.aj(new A.pZ(a5,a5,a5,a5,i===d,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a1,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5,a5),!1,!1,!1,!1,a5,a5)],s),a5),a5),a5,!0,!1,a5,a5,a5,a5,a5,g,a5,a5,a5,a5,a5,new B.ba7(a4,i),a5,a5,u,a5,a5,h,a5)
+v[i]=u
+h=a4.a
+if(!h.e&&k)v[i]=new A.hT(1,C.ch,u,a5)}w=a4.f
+s=a4.gzS()
+r=k?C.i:C.a0
+a2=A.ft(B.bsn(C.bp,new B.anX(a4.gaM_(),C.a5,C.j,r,C.l,a5,C.o,a5,v,a5),s,!0,!1,u.at,u.ay,u.ax,a5),a5,a5,w,C.H)
+if(a4.a.e){if(x===D.auW)a3=D.a27.K(0,C.A)
+else a3=a5
+if(a4.d==null)a4.d=new B.anV(a4,0,A.b([],y.F),$.ak())
+w=A.o_(a7).agp(!1)
+u=a4.a
+a2=A.O_(w,A.fT(a2,C.r,a4.d,C.v,a3,u.fr,a5,a5,!1,C.a5))}return a2}}
+B.P_.prototype={
+N(){return new B.VQ(C.h)}}
+B.VQ.prototype={
+gEE(){var x=this.d
+return(x==null?null:x.gu4(x))!=null},
+Lf(){var x,w=this,v=w.a.c
+if(v==null){x=w.c
+x.toString
+v=B.bo0(x)}if(v==w.d)return
+if(w.gEE()){x=w.d
+x.gu4(x).C(0,w.gEM())}w.d=v
+if(v!=null){x=v.gu4(v)
+x.pl()
+x=x.qX$
+x.b=!0
+x.a.push(w.gEM())}},
+Qb(d){var x;++this.w
+x=this.e
+x===$&&A.c()
+x.aji(d);--this.w},
+Ka(d,e,f){return this.auP(d,e,f)},
+auP(d,e,f){var x=0,w=A.ae(y.H),v=this,u
+var $async$Ka=A.af(function(g,h){if(g===1)return A.ab(h,w)
+while(true)switch(x){case 0:++v.w
+u=v.e
+u===$&&A.c()
+x=2
+return A.al(u.RZ(d,e,f),$async$Ka)
+case 2:--v.w
+return A.ac(null,w)}})
+return A.ad($async$Ka,w)},
+ac(){this.au()
+this.f=B.aEQ(this.a.d)},
+aM(){var x,w=this
+w.pb()
+w.Lf()
+x=w.d.d
+w.r=x
+w.a.toString
+w.e=A.bjH(x,1)},
+ah(d){var x,w=this
+w.az(d)
+if(w.a.c!=d.c){w.Lf()
+x=w.d.d
+w.r=x
+w.Qb(x)}x=w.a.d
+if(x!==d.d&&w.w===0)w.f=B.aEQ(x)},
+j(){var x,w=this
+if(w.gEE()){x=w.d
+x.gu4(x).C(0,w.gEM())}w.d=null
+w.a6()},
+Y2(){var x,w=this
+if(w.x>0||w.d.f===0)return
+x=w.d.d
+if(x!==w.r){w.r=x
+w.aQJ()}},
+aQJ(){var x,w,v,u,t=this
+if(t.c!=null){x=t.e
+x===$&&A.c()
+w=y.g.a(C.b.gtt(x.f))
+x=w.gzA(w)
+v=t.r
+v.toString
+v=x===v
+x=v}else x=!0
+if(x)return
+x=t.r
+x.toString
+v=t.d
+u=v.e
+v=v.b
+if(Math.abs(x-u)===1)t.RD(v)
+else t.RE(v)},
+RD(d){return this.aQI(d)},
+aQI(d){var x=0,w=A.ae(y.H),v,u=this,t
+var $async$RD=A.af(function(e,f){if(e===1)return A.ab(f,w)
+while(true)switch(x){case 0:t=u.r
+x=d.a===C.P.a?3:5
+break
+case 3:t.toString
+u.Qb(t)
+x=4
+break
+case 5:t.toString
+x=6
+return A.al(u.Ka(t,C.Z,d),$async$RD)
+case 6:case 4:if(u.c!=null)u.E(new B.ba9(u))
+v=A.eh(null,y.H)
+x=1
+break
+case 1:return A.ac(v,w)}})
+return A.ad($async$RD,w)},
+RE(d){return this.aQK(d)},
+aQK(d){var x=0,w=A.ae(y.H),v=this,u,t,s
+var $async$RE=A.af(function(e,f){if(e===1)return A.ab(f,w)
+while(true)switch(x){case 0:t=v.d.e
+s=v.r
+s.toString
+u=s>t?s-1:s+1
+v.E(new B.baa(v,u,t))
+v.Qb(u)
+s=v.r
+x=d.a===C.P.a?2:4
+break
+case 2:s.toString
+v.Qb(s)
+x=3
+break
+case 4:s.toString
+x=5
+return A.al(v.Ka(s,C.Z,d),$async$RE)
+case 5:case 3:if(v.c!=null)v.E(new B.bab(v))
+return A.ac(null,w)}})
+return A.ad($async$RE,w)},
+ad8(){var x,w,v=this.d
+v.toString
+x=this.e
+x===$&&A.c()
+w=y.g.a(C.b.gtt(x.f))
+x=w.gzA(w)
+x.toString
+v.swM(0,A.H(x-this.d.d,-1,1))},
+aOH(d){var x,w,v,u,t=this
+if(t.w>0||t.x>0)return!1
+if(d.vE$!==0)return!1
+if(!t.gEE())return!1;++t.x
+if(d instanceof A.jG&&t.d.f===0){x=t.e
+x===$&&A.c()
+w=y.g
+v=w.a(C.b.gtt(x.f))
+x=v.gzA(v)
+x.toString
+u=t.d
+if(Math.abs(x-u.d)>1){v=w.a(C.b.gtt(t.e.f))
+x=v.gzA(v)
+x.toString
+u.GI(C.c.aN(x))
+t.r=t.d.d}t.ad8()}else if(d instanceof A.fz){x=t.d
+x.toString
+w=t.e
+w===$&&A.c()
+v=y.g.a(C.b.gtt(w.f))
+w=v.gzA(v)
+w.toString
+x.GI(C.c.aN(w))
+w=t.d
+t.r=w.d
+if(w.f===0)t.ad8()}--t.x
+return!1},
+n(d){var x,w,v=this,u=v.a
+u.toString
+x=v.e
+x===$&&A.c()
+u=u.e
+u=u==null?new A.yY(C.ri.xY(E.h5)):new A.yY(C.ri.xY(u))
+w=v.f
+w===$&&A.c()
+return new A.cY(v.gaOG(),new A.DG(!1,x,u,!0,null,A.Oz(w,!0,!0,!0),C.v,C.r,null),null,y.N)}}
+B.bam.prototype={
+gDZ(){return A.o(this.at).dy},
+gN_(){var x=A.o(this.at).p2.y.b
+x.toString
+return x},
+gwJ(){return A.o(this.at).p2.y},
+gO7(){return A.o(this.at).p2.y},
+gzP(){return A.o(this.at).x},
+gNU(){return this.ax?D.auV:D.OJ}}
+B.apH.prototype={}
+B.apX.prototype={}
+var z=a.updateTypes(["~()","~(S<u>,jL,u)","L(fA)"])
+B.aOA.prototype={
+$0(){var x=this.a
+if(x.a!=null){--x.f
+x.af()}},
+$S:0}
+B.bac.prototype={
+$1(d){var x,w,v=this
+if(d.v(0,C.R)){x=v.a
+w=v.b
+w=A.V(x.a,x.b,w.gk(w))
+w.toString
+return w}x=v.a
+w=v.b
+w=A.V(x.b,x.a,w.gk(w))
+w.toString
+return w},
+$S:14}
+B.ba8.prototype={
+$1(d){return new A.as(null,y.z)},
+$S:851}
+B.ba4.prototype={
+$0(){},
+$S:0}
+B.ba5.prototype={
+$1(d){var x,w=this,v=null,u=w.a,t=u.a,s=t.c[d]
+if(y.G.b(s))if(t.gb_E()&&s.gyR().b===46){t=u.a.CW
+s=t==null
+if(!s||w.b.f!=null){if(s){t=w.b.f
+t.toString}x=t.K(0,D.a2o)}else x=D.a2R}else x=v
+else x=v
+t=u.y
+t===$&&A.c()
+s=x==null?u.a.CW:x
+if(s==null)s=w.b.f
+if(s==null)s=C.bk
+t[d]=s
+t=u.x
+t===$&&A.c()
+t=t[d]
+return A.bt(new A.T(s,new A.fN(u.a.c[d],t),v),1,v)},
+$S:852}
+B.ba6.prototype={
+$1(d){var x,w=this.b
+w.ab(0,d)
+x=this.a.gzS().gtb()
+return x==null?null:x.Y(w)},
+$S:16}
+B.ba7.prototype={
+$0(){var x=this.a,w=this.b
+x.e.aRc(w)
+x=x.a.dy
+if(x!=null)x.$1(w)},
+$S:0}
+B.ba9.prototype={
+$0(){var x=this.a
+x.f=B.aEQ(x.a.d)},
+$S:0}
+B.baa.prototype={
+$0(){var x,w,v,u=this.a,t=u.f
+t===$&&A.c()
+t=u.f=A.ay(t,!1,y.l)
+x=this.b
+w=t[x]
+v=this.c
+t[x]=t[v]
+C.b.q(u.f,v,w)},
+$S:0}
+B.bab.prototype={
+$0(){var x=this.a
+x.f=B.aEQ(x.a.d)},
+$S:0};(function installTearOffs(){var x=a._instance_0u,w=a.installInstanceTearOff,v=a._instance_1u
+x(B.ER.prototype,"gtP","j",0)
+x(B.SE.prototype,"gtg","aH",0)
+var u
+x(u=B.VP.prototype,"gEM","Y2",0)
+x(u,"gY3","aFr",0)
+w(u,"gaM_",0,3,null,["$3"],["aM0"],1,0,0)
+x(u=B.VQ.prototype,"gEM","Y2",0)
+v(u,"gaOG","aOH",2)})();(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
+w(B.ER,A.fY)
+v(A.hS,[B.aOA,B.ba4,B.ba7,B.ba9,B.baa,B.bab])
+w(B.ug,A.eU)
+w(B.ap7,A.id)
+v(A.qv,[B.aat,B.OY])
+w(B.anZ,A.oI)
+v(A.f3,[B.bac,B.ba8,B.ba5,B.ba6])
+w(B.anY,A.zn)
+w(B.anX,A.pe)
+w(B.SE,A.p_)
+v(A.aU,[B.apH,B.apX])
+w(B.aeI,B.apH)
+w(B.G1,B.apX)
+w(B.VO,A.pT)
+w(B.anV,A.hg)
+v(A.A,[B.OZ,B.P_])
+v(A.G,[B.VP,B.VQ])
+w(B.bam,A.EQ)
+x(B.apH,A.r_)
+x(B.apX,A.r_)})()
+A.b7(b.typeUniverse,JSON.parse('{"Hv":{"bc":[],"b4":[],"d":[]},"ER":{"ah":[]},"ug":{"eU":[]},"ap7":{"id":[]},"OZ":{"A":[],"kt":[],"d":[]},"P_":{"A":[],"d":[]},"anZ":{"A":[],"d":[]},"anY":{"cd":["w","h3"],"w":[],"aa":["w","h3"],"v":[],"ap":[],"aa.1":"h3","cd.1":"h3","cd.0":"w","aa.0":"w"},"anX":{"eP":[],"ax":[],"d":[]},"SE":{"ah":[]},"aeI":{"aU":["u"],"ah":[]},"G1":{"aU":["u"],"ah":[]},"VO":{"j0":[],"fC":[],"ah":[],"j_":[]},"anV":{"hg":[],"ah":[]},"VP":{"G":["OZ"]},"VQ":{"G":["P_"]}}'))
+var y=(function rtii(){var x=A.a6
+return{m:x("aU<u>"),I:x("hx"),W:x("e_"),L:x("h3"),U:x("jt<G<A>>"),F:x("y<j0>"),p:x("y<d>"),n:x("y<u>"),A:x("y<~(fI)>"),z:x("as<G<A>>"),y:x("aA"),M:x("ds"),N:x("cY<fA>"),X:x("bo<~(fI)>"),G:x("kt"),i:x("F2"),Q:x("bw<h4>"),a:x("bw<q>"),l:x("d"),s:x("cS<i?>"),g:x("op"),Z:x("H2"),h:x("Hv"),v:x("L"),R:x("dx?"),H:x("~")}})();(function constants(){D.a27=new A.bb(52,0,0,0)
+D.a2o=new A.X(0,13,0,13)
+D.a2R=new A.X(16,13,16,13)
+D.NT=new A.f6([C.R],A.a6("f6<ds>"))
+D.auV=new B.OY(0,"start")
+D.auW=new B.OY(1,"startOffset")
+D.OJ=new B.OY(2,"fill")
+D.auX=new B.aat(0,"tab")
+D.auY=new B.aat(1,"label")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_537",e:"endPart",h:b})})($__dart_deferred_initializers__,"KKkbQOPrYOxbo0zCI/pUgc/0t1M=");
+a.eventLog.push({p:"main.dart.js_537",e:"endPart",h:b})})($__dart_deferred_initializers__,"wEKZsR92Cb3z7qGJQQ7zabi2Hc8=");
