@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_514",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bF7(){return new B.y2(A.aJ("ro"))},
+bFd(){return new B.y2(A.aJ("ro"))},
 y2:function y2(d){this.a=d}},A,C
 B=a.updateHolder(c[62],B)
 A=c[0]
@@ -780,4 +780,4 @@ x(B.y2,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"y2":{"C":[]}}'))
 var y={c:"B\u0103rbat care se sprijin\u0103 de o ma\u0219in\u0103 albastr\u0103 veche",p:"Castel \xeentr-un peisaj de iarn\u0103, cu conifere",a:"Hotel pe malul unui lac, \xeen fa\u021ba mun\u021bilor"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_514",e:"endPart",h:b})})($__dart_deferred_initializers__,"Pl37a8e9NieUjOxdVpiT2MzF8e4=");
+a.eventLog.push({p:"main.dart.js_514",e:"endPart",h:b})})($__dart_deferred_initializers__,"Dx/q7rBReqVov35CO+8H+dvenTo=");

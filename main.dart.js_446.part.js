@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_446",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEE(){return new B.xA(A.aJ("hu"))},
+bEK(){return new B.xA(A.aJ("hu"))},
 xA:function xA(d){this.a=d}},A,C
 B=a.updateHolder(c[35],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xA,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xA":{"C":[]}}'))
 var y={c:"Az Al-Azhar mecset tornyai a lemen\u0151 nap f\xe9ny\xe9ben"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_446",e:"endPart",h:b})})($__dart_deferred_initializers__,"yiR6rd2mTvgcuHe62QzNY68rH5E=");
+a.eventLog.push({p:"main.dart.js_446",e:"endPart",h:b})})($__dart_deferred_initializers__,"+wLl1gaEAcotcegGrZ+WRTtnfVw=");

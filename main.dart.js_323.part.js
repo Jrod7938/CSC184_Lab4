@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_323",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bDJ(){return new B.wJ(A.aJ("as"))},
+bDP(){return new B.wJ(A.aJ("as"))},
 wJ:function wJ(d){this.a=d}},A,C
 B=a.updateHolder(c[13],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.wJ,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"wJ":{"C":[]}}'))
 var y={d:"\u0985\u09b2-\u0986\u099d\u09be\u09f0 \u09ae\u099b\u099c\u09bf\u09a6\u099f\u09cb \u09b8\u09c2\u09f0\u09cd\u09af\u09be\u09b8\u09cd\u09a4\u09f0 \u09b8\u09ae\u09df\u09a4 \u09b8\u09c1\u0989\u099a\u09cd\u099a \u09a6\u09c7\u0996\u09be \u0997\u09c8\u099b\u09c7",a:"\u099a\u09bf\u09f0\u09b8\u09c7\u0989\u099c \u0989\u09a6\u09cd\u09ad\u09bf\u09a6\u09f0 \u098f\u0995 \u09ac\u09f0\u09ab\u09be\u09ac\u09c3\u09a4 \u09aa\u09cd\u09f0\u09be\u0995\u09c3\u09a4\u09bf\u0995 \u09a6\u09c3\u09b6\u09cd\u09af\u09f0 \u09b8\u09c8\u09a4\u09c7 \u09b6\u09cd\u09ac\u09cd\u09af\u09be\u09b2\u09c7\u0987",n:"\u09aa\u09f0\u09cd\u09ac\u09a4\u09f0 \u09b8\u09a8\u09cd\u09ae\u09c1\u0996\u09a4 \u09a5\u0995\u09be \u098f\u099f\u09be \u09b9\u09cd\u09f0\u09a6\u09f0 \u0995\u09be\u09b7\u09f0\u09c0\u09df\u09be \u09b9\u09cb\u099f\u09c7\u09b2"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_323",e:"endPart",h:b})})($__dart_deferred_initializers__,"20Ef+FxosixfJ0zuFFQLoduQGc4=");
+a.eventLog.push({p:"main.dart.js_323",e:"endPart",h:b})})($__dart_deferred_initializers__,"00GThyBQE+EKY3NcAOD0iHmcrAs=");

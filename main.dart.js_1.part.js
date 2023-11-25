@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_1",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFd(d){return new B.rM(A.aJ(d))},
-bFe(){return new B.y8(A.aJ("sr_Latn"))},
+bFj(d){return new B.rM(A.aJ(d))},
+bFk(){return new B.y8(A.aJ("sr_Latn"))},
 rM:function rM(d){this.a=d},
 y8:function y8(d){this.a=d}},A,C
 B=a.updateHolder(c[3],B)
@@ -1551,4 +1551,4 @@ x(B.y8,B.rM)})()
 A.b7(b.typeUniverse,JSON.parse('{"rM":{"C":[]},"y8":{"C":[]}}'))
 var y={p:"Planinska koliba u sne\u017enom pejza\u017eu sa zimzelenim drvec\u0301em",f:"Prikazuje dijalog sa bira\u010dem datuma materijalnog dizajna.",v:"\u010covek se naslanja na stari plavi automobil",a:"\u041f\u043b\u0430\u043d\u0438\u043d\u0441\u043a\u0430 \u043a\u043e\u043b\u0438\u0431\u0430 \u0443 \u0441\u043d\u0435\u0436\u043d\u043e\u043c \u043f\u0435\u0458\u0437\u0430\u0436\u0443 \u0441\u0430 \u0437\u0438\u043c\u0437\u0435\u043b\u0435\u043d\u0438\u043c \u0434\u0440\u0432\u0435\u045b\u0435\u043c",D:"\u041f\u0440\u0438\u043a\u0430\u0437\u0443\u0458\u0435 \u0434\u0438\u0458\u0430\u043b\u043e\u0433 \u0441\u0430 \u0431\u0438\u0440\u0430\u0447\u0435\u043c \u0434\u0430\u0442\u0443\u043c\u0430 \u043c\u0430\u0442\u0435\u0440\u0438\u0458\u0430\u043b\u043d\u043e\u0433 \u0434\u0438\u0437\u0430\u0458\u043d\u0430.",z:"\u0427\u043e\u0432\u0435\u043a \u0441\u0435 \u043d\u0430\u0441\u043b\u0430\u045a\u0430 \u043d\u0430 \u0441\u0442\u0430\u0440\u0438 \u043f\u043b\u0430\u0432\u0438 \u0430\u0443\u0442\u043e\u043c\u043e\u0431\u0438\u043b"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"XIqH2GGeZioH17JwNdbuyxgQmC0=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"ttEAyb0iGoeGXyL07P3un/HJwps=");

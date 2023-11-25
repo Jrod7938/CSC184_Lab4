@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_525",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFg(){return new B.ya(A.aJ("sw"))},
+bFm(){return new B.ya(A.aJ("sw"))},
 ya:function ya(d){this.a=d}},A,C
 B=a.updateHolder(c[69],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.ya,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"ya":{"C":[]}}'))
 var y={m:"Minara ya Msikiti wa Al-Azhar wakati wa machweo",c:"Mwanaume aliyeegemea gari la kale la samawati",i:"Nyumba ndogo ya kupumzika katika mandhari ya theluji yenye miti ya kijani kibichi",f:"Nyumba zisizo na ghorofa zilizojengwa juu ya maji"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_525",e:"endPart",h:b})})($__dart_deferred_initializers__,"YLlHtTky5u1OPmP1FdG1DVghy4k=");
+a.eventLog.push({p:"main.dart.js_525",e:"endPart",h:b})})($__dart_deferred_initializers__,"oeTvkPN8NzGEGfcr3Tyd3cXIjtA=");

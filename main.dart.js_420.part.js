@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_420",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEs(){return new B.xp(A.aJ("fa"))},
+bEy(){return new B.xp(A.aJ("fa"))},
 xp:function xp(d){this.a=d}},A,C
 B=a.updateHolder(c[26],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xp,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xp":{"C":[]}}'))
 var y={d:"\u06a9\u0644\u0628\u0647\u200c\u0627\u06cc \u062f\u0631 \u0645\u0646\u0638\u0631\u0647 \u0628\u0631\u0641\u06cc \u0628\u0627 \u062f\u0631\u062e\u062a\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647\u200c\u0633\u0628\u0632"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_420",e:"endPart",h:b})})($__dart_deferred_initializers__,"ve2Ds8z15O4EV9CorFgvQKyQ3Wc=");
+a.eventLog.push({p:"main.dart.js_420",e:"endPart",h:b})})($__dart_deferred_initializers__,"I00zVHG5TbehqaIWM3laz9Wr+Sw=");

@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_487",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bES(){return new B.xO(A.aJ("lv"))},
+bEY(){return new B.xO(A.aJ("lv"))},
 xO:function xO(d){this.a=d}},A,C
 B=a.updateHolder(c[49],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xO,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xO":{"C":[]}}'))
 var y={d:"Koted\u017ea sniegot\u0101 ainav\u0101 ar m\u016b\u017eza\u013ciem kokiem",b:"V\u012brietis atspiedies pret senu, zilu automa\u0161\u012bnu"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_487",e:"endPart",h:b})})($__dart_deferred_initializers__,"zlIzJ7EKvgqTQuDe8vuP7NT0h3g=");
+a.eventLog.push({p:"main.dart.js_487",e:"endPart",h:b})})($__dart_deferred_initializers__,"PAM2M67bxUiwbn0pfBCMTlQdFqo=");

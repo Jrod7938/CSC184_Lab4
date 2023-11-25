@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_519",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFa(){return new B.y5(A.aJ("sk"))},
+bFg(){return new B.y5(A.aJ("sk"))},
 y5:function y5(d){this.a=d}},A,C
 B=a.updateHolder(c[65],B)
 A=c[0]
@@ -780,4 +780,4 @@ x(B.y5,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"y5":{"C":[]}}'))
 var y={g:"Chata v\xa0zasne\u017eenej krajine s\xa0ihli\u010dnat\xfdmi stromami",a:"Mu\u017e opieraj\xfaci sa o\xa0starod\xe1vne modr\xe9 auto"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_519",e:"endPart",h:b})})($__dart_deferred_initializers__,"a27ReG0EvgsIhbgVAru5L9kWYc8=");
+a.eventLog.push({p:"main.dart.js_519",e:"endPart",h:b})})($__dart_deferred_initializers__,"BIt1wE1lhPb+LyH2u6zPhlFOne0=");

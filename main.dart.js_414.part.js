@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_414",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEq(){return new B.xn(A.aJ("et"))},
+bEw(){return new B.xn(A.aJ("et"))},
 xn:function xn(d){this.a=d}},A,C
 B=a.updateHolder(c[24],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xn,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xn":{"C":[]}}'))
 var y={c:"M\xe4gimajake lumisel maastikul koos igihaljaste puudega"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_414",e:"endPart",h:b})})($__dart_deferred_initializers__,"5e87gYn+eAKi6t7lDq+6NSELJiY=");
+a.eventLog.push({p:"main.dart.js_414",e:"endPart",h:b})})($__dart_deferred_initializers__,"kjdxf+MF5sYEPYZrLJM7WflpAF0=");

@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_418",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEr(){return new B.xo(A.aJ("eu"))},
+bEx(){return new B.xo(A.aJ("eu"))},
 xo:function xo(d){this.a=d}},A,C
 B=a.updateHolder(c[25],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xo,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xo":{"C":[]}}'))
 var y={c:"Gizon bat antzinako auto urdin baten aurrean makurtuta",l:"Mendialdeko hotel bat, laku baten ertzean",j:"Txalet bat zuhaitz hostoiraunkorreko paisaia elurtuan"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_418",e:"endPart",h:b})})($__dart_deferred_initializers__,"lEJ+Hbd5sENgzftxgwtNzc/TeQg=");
+a.eventLog.push({p:"main.dart.js_418",e:"endPart",h:b})})($__dart_deferred_initializers__,"a9NcuDc2LCaVdhpAJDBmU2QvPSg=");

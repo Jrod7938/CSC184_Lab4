@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_438",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEC(){return new B.xy(A.aJ("hi"))},
+bEI(){return new B.xy(A.aJ("hi"))},
 xy:function xy(d){this.a=d}},A,C
 B=a.updateHolder(c[33],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xy,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xy":{"C":[]}}'))
 var y={o:"\u0928\u0940\u0932\u0947 \u0930\u0902\u0917 \u0915\u0940 \u0935\u093f\u091f\u0947\u0902\u091c \u0915\u093e\u0930 \u0938\u0947 \u091f\u0947\u0915 \u0932\u0917\u093e\u0915\u0930 \u0916\u0921\u093c\u093e \u0935\u094d\u092f\u0915\u094d\u0924\u093f",p:"\u092f\u0939 \u0910\u0938\u093e \u0921\u093e\u092f\u0932\u0949\u0917 \u0926\u093f\u0916\u093e\u0924\u093e \u0939\u0948 \u091c\u093f\u0938\u092e\u0947\u0902 Material Design \u0935\u093e\u0932\u093e \u091f\u0942\u0932 \u092e\u094c\u091c\u0942\u0926 \u0939\u094b\u0924\u093e \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u0924\u093e\u0930\u0940\u0916 \u091a\u0941\u0928 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902.",k:"\u0938\u0926\u093e\u092c\u0939\u093e\u0930 \u092a\u0947\u0921\u093c\u094b\u0902 \u0915\u0947 \u092c\u0940\u091a \u092c\u0930\u094d\u092b\u093c\u0940\u0932\u0947 \u0932\u0948\u0902\u0921\u0938\u094d\u0915\u0947\u092a \u092e\u0947\u0902 \u092c\u0928\u093e \u0936\u0948\u0932\u0947",a:"\u0938\u0942\u0930\u094d\u092f\u093e\u0938\u094d\u0924 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0905\u0932-\u0905\u091c\u093c\u0939\u0930 \u092e\u0938\u094d\u091c\u093c\u093f\u0926 \u0915\u0947 \u091f\u093e\u0935\u0930"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"dcVKAbi1cHEDBuhh2YeL7/40jU0=");
+a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"kFlLCnY2PgZese1l8Q5UuuvZ0V4=");

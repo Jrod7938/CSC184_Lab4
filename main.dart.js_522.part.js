@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_522",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFc(){return new B.y7(A.aJ("sq"))},
+bFi(){return new B.y7(A.aJ("sq"))},
 y7:function y7(d){this.a=d}},A,C
 B=a.updateHolder(c[67],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.y7,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"y7":{"C":[]}}'))
 var y={c:"Burr\xeb i mb\xebshtetur te nj\xeb makin\xeb antike blu",g:"Minaret e Xhamis\xeb s\xeb Al-Azharit n\xeb per\xebndim t\xeb diellit",a:"Sht\xebpi alpine n\xeb nj\xeb peizazh me bor\xeb me pem\xeb t\xeb gjelb\xebruara"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_522",e:"endPart",h:b})})($__dart_deferred_initializers__,"4ZmZW1uJ1mFhzENkD/FkKDyLNig=");
+a.eventLog.push({p:"main.dart.js_522",e:"endPart",h:b})})($__dart_deferred_initializers__,"lbSqqxAZxBX1vEX7rMrTd1gekio=");

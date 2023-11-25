@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_521",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFb(){return new B.y6(A.aJ("sl"))},
+bFh(){return new B.y6(A.aJ("sl"))},
 y6:function y6(d){this.a=d}},A,C
 B=a.updateHolder(c[66],B)
 A=c[0]
@@ -780,4 +780,4 @@ x(B.y6,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"y6":{"C":[]}}'))
 var y={d:"Mo\u0161ki, naslonjen na starinski modri avtomobil",g:"Planinska ko\u010da v zasne\u017eeni pokrajini z zimzelenimi drevesi"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_521",e:"endPart",h:b})})($__dart_deferred_initializers__,"HHepEdUPK7HHego/SCMAAIuwQ/A=");
+a.eventLog.push({p:"main.dart.js_521",e:"endPart",h:b})})($__dart_deferred_initializers__,"xLNcrZ3WnPT6/NrpBVEWY9Jc2Xk=");

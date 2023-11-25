@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_373",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bDO(){return new B.wO(A.aJ("bs"))},
+bDU(){return new B.wO(A.aJ("bs"))},
 wO:function wO(d){this.a=d}},A,C
 B=a.updateHolder(c[18],B)
 A=c[0]
@@ -780,4 +780,4 @@ x(B.wO,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"wO":{"C":[]}}'))
 var y={c:"Mu\u0161karac naslonjen na starinski plavi automobil",f:"Planinska ku\u0107ica u snje\u017enom krajoliku sa zimzelenim drve\u0107em"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_373",e:"endPart",h:b})})($__dart_deferred_initializers__,"C86iuOiuaz3IlsVhrg/yA+7PLxs=");
+a.eventLog.push({p:"main.dart.js_373",e:"endPart",h:b})})($__dart_deferred_initializers__,"LUraGLTQ7FMdsW4hxjnBpdPZgaA=");

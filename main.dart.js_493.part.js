@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_493",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEV(){return new B.xR(A.aJ("mn"))},
+bF0(){return new B.xR(A.aJ("mn"))},
 xR:function xR(d){this.a=d}},A,C
 B=a.updateHolder(c[52],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xR,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xR":{"C":[]}}'))
 var y={d:"\u041c\u04e9\u043d\u0445 \u043d\u043e\u0433\u043e\u043e\u043d \u043c\u043e\u0434\u0442\u043e\u0439, \u0446\u0430\u0441\u0442\u0430\u0439 \u0431\u0430\u0439\u0433\u0430\u043b\u044c \u0434\u0430\u0445\u044c \u043c\u043e\u0434\u043e\u043d \u0431\u0430\u0439\u0448\u0438\u043d",a:"\u041d\u0430\u0440 \u0436\u0430\u0440\u0433\u0430\u0445 \u04af\u0435\u0438\u0439\u043d \u0410\u043b\u044c-\u0410\u0437\u0445\u0430\u0440 \u0441\u04af\u043c\u0438\u0439\u043d \u0446\u0430\u043c\u0445\u0433\u0443\u0443\u0434"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_493",e:"endPart",h:b})})($__dart_deferred_initializers__,"NJwECSuq4vHenmJPs3BiKg2mqy4=");
+a.eventLog.push({p:"main.dart.js_493",e:"endPart",h:b})})($__dart_deferred_initializers__,"lUT9fi0N0msqV86XzDwaDWVCuEM=");

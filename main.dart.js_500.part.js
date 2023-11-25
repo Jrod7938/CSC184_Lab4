@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_500",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEZ(){return new B.xV(A.aJ("nb"))},
+bF4(){return new B.xV(A.aJ("nb"))},
 xV:function xV(d){this.a=d}},A,C
 B=a.updateHolder(c[56],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xV,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xV":{"C":[]}}'))
 var y={a:"T\xe5rnene til Al-Azhar-moskeen ved solnedgang"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_500",e:"endPart",h:b})})($__dart_deferred_initializers__,"mtsi9WGoa2IkIEh+CabewPYEyCE=");
+a.eventLog.push({p:"main.dart.js_500",e:"endPart",h:b})})($__dart_deferred_initializers__,"rS+pQYsc0joNnyxCtkOMTpiV67g=");

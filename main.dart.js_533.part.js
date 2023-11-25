@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_533",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFo(){return new B.yi(A.aJ("uz"))},
+bFu(){return new B.yi(A.aJ("uz"))},
 yi:function yi(d){this.a=d}},A,C
 B=a.updateHolder(c[77],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.yi,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"yi":{"C":[]}}'))
 var y={c:"Dengiz bo\u02bbyidagi g\u02bbishtdan qurilgan mayoq",l:"Eski ko\u02bbk avtomobilga suyanib turgan odam",g:"Kun botayotganda Al-Azhar masjidi minoralari",m:"Qishloqdagi qorli yam-yashil daraxtlar bag\u02bbridagi uy",d:"Tog\u02bblar bilan o\u02bbralgan soy bo\u02bbyidagi mehmonxona"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_533",e:"endPart",h:b})})($__dart_deferred_initializers__,"Lu/YkzWrCQXIX8z6wZgpqwV/OCE=");
+a.eventLog.push({p:"main.dart.js_533",e:"endPart",h:b})})($__dart_deferred_initializers__,"4C/0gKXcd1FuQErcMXEE275I514=");

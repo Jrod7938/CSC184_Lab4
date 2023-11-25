@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_458",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bEI(){return new B.xE(A.aJ("it"))},
+bEO(){return new B.xE(A.aJ("it"))},
 xE:function xE(d){this.a=d}},A,C
 B=a.updateHolder(c[39],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.xE,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"xE":{"C":[]}}'))
 var y={f:"Chalet in un paesaggio innevato con alberi sempreverdi",b:"Torri della moschea di Al-Azhar al tramonto"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_458",e:"endPart",h:b})})($__dart_deferred_initializers__,"LagOWKSxr9J24jSx35BQRCS1Mts=");
+a.eventLog.push({p:"main.dart.js_458",e:"endPart",h:b})})($__dart_deferred_initializers__,"Du0kESl0p+9RhAG9YTy/+gEzsdg=");

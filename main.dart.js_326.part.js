@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_326",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bDK(){return new B.wK(A.aJ("az"))},
+bDQ(){return new B.wK(A.aJ("az"))},
 wK:function wK(d){this.a=d}},A,C
 B=a.updateHolder(c[14],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.wK,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"wK":{"C":[]}}'))
 var y={h:"G\xfcn bat\u0131m\u0131 zaman\u0131 \u018fl-\u018fzh\u0259r M\u0259scidinin minar\u0259l\u0259ri",c:"H\u0259mi\u015f\u0259ya\u015f\u0131l a\u011faclar olan qarl\u0131 yerd\u0259 a\u011facdan ev"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_326",e:"endPart",h:b})})($__dart_deferred_initializers__,"RgRHqL0xA1br+gee/XBgOe2ndlE=");
+a.eventLog.push({p:"main.dart.js_326",e:"endPart",h:b})})($__dart_deferred_initializers__,"w1RwR2REi0+khVHyIjpEsq5nhQo=");

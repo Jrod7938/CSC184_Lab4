@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_524",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-bFf(){return new B.y9(A.aJ("sv"))},
+bFl(){return new B.y9(A.aJ("sv"))},
 y9:function y9(d){this.a=d}},A,C
 B=a.updateHolder(c[68],B)
 A=c[0]
@@ -775,4 +775,4 @@ x(B.y9,C.C)})()
 A.b7(b.typeUniverse,JSON.parse('{"y9":{"C":[]}}'))
 var y={d:"Fj\xe4llstuga i ett sn\xf6t\xe4ckt landskap med granar"}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_524",e:"endPart",h:b})})($__dart_deferred_initializers__,"slpPk0m5OF7aF1/5h9c28YXpRTE=");
+a.eventLog.push({p:"main.dart.js_524",e:"endPart",h:b})})($__dart_deferred_initializers__,"cCbJrqL7NP5KhyEJPTTaT5boM/4=");
