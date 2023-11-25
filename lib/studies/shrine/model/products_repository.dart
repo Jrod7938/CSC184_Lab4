@@ -9,28 +9,70 @@ class ProductsRepository {
   static List<Product> loadProducts(Category category) {
     final allProducts = [
       Product(
-        category: categoryAccessories, // Update category as needed
-        id: 1, // Assuming IDs 1, 2, 3 for your products
+        category: categoryClothing, 
+        id: 1, 
         isFeatured: true,
-        name: (context) => 'Product 1', // Update with appropriate name
-        price: 120, // Set your price
-        assetAspectRatio: 1, // Update if you have a specific aspect ratio
+        name: (context) => 'Shadow Print Hoodie', 
+        price: 60,
+        assetAspectRatio: 1, 
       ),
       Product(
-        category: categoryAccessories, // Update category as needed
+        category: categoryClothing, 
         id: 2,
         isFeatured: true,
-        name: (context) => 'Product 2', // Update with appropriate name
-        price: 150, // Set your price
-        assetAspectRatio: 1, // Update if you have a specific aspect ratio
+        name: (context) => 'Cherries Hoodie', 
+        price: 60, 
+        assetAspectRatio: 1, 
       ),
       Product(
-        category: categoryAccessories, // Update category as needed
+        category: categoryClothing, 
         id: 3,
         isFeatured: false,
-        name: (context) => 'Product 3', // Update with appropriate name
-        price: 200, // Set your price
-        assetAspectRatio: 1, // Update if you have a specific aspect ratio
+        name: (context) => 'Stripe Joggers', 
+        price: 60,
+        assetAspectRatio: 1, 
+      ),
+      Product(
+        category: categoryClothing,
+        id: 4,
+        isFeatured: true,
+        name: (context) => 'Kitty Block Sweater',
+        price: 49,
+      ),
+      Product(
+        category: categoryAccessories,
+        id: 5,
+        isFeatured: true,
+        name: (context) => 'Animated Shrek Beanie',
+        price: 19,
+      ),
+      Product(
+        category: categoryAccessories,
+        id: 7,
+        isFeatured: true,
+        name: (context) => 'Cartoon Bucket Hat',
+        price: 29,
+      ),
+      Product(
+        category: categoryAccessories,
+        id: 8,
+        isFeatured: true,
+        name: (context) => 'Sherpa Earmuffs',
+        price: 29,
+      ),
+      Product(
+        category: categoryHome,
+        id: 9,
+        isFeatured: true,
+        name: (context) => 'Soap Holder',
+        price: 2,
+      ),
+      Product(
+        category: categoryHome,
+        id: 6,
+        isFeatured: true,
+        name: (context) => 'Door Stopper',
+        price: 4,
       ),
     ];
     if (category == categoryAll) {
