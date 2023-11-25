@@ -77,7 +77,7 @@ Widget _buildProductCard({
   );
   final theme = Theme.of(context);
   final imageWidget = FadeInImagePlaceholder(
-    image: AssetImage(product.assetName, package: product.assetPackage),
+    image: AssetImage(product.assetName), // Updated to use local asset
     placeholder: Container(
       color: Colors.black.withOpacity(0.1),
       width: imageWidth,

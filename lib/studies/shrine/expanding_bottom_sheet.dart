@@ -748,10 +748,7 @@ class ProductThumbnail extends StatelessWidget {
           height: _thumbnailHeight(context),
           decoration: BoxDecoration(
             image: DecorationImage(
-              image: ExactAssetImage(
-                product.assetName, // asset name
-                package: product.assetPackage, // asset package
-              ),
+              image: AssetImage(product.assetName), // Updated to use local asset
               fit: BoxFit.cover,
             ),
             borderRadius: const BorderRadius.all(Radius.circular(10)),
