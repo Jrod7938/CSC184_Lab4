@@ -97,7 +97,7 @@ class _ShrineLogo extends StatelessWidget {
           ),
           const SizedBox(height: 16),
           Text(
-            'SHRINE',
+            'Heights Culture',
             style: Theme.of(context).textTheme.headlineSmall,
           ),
         ],

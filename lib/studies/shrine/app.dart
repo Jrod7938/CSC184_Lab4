@@ -102,7 +102,7 @@ class _ShrineAppState extends State<ShrineApp>
     return Backdrop(
       frontLayer: const ProductPage(),
       backLayer: CategoryMenuPage(onCategoryTap: () => _controller.forward()),
-      frontTitle: const Text('SHRINE'),
+      frontTitle: const Text('Heights Culture'),
       backTitle: Text(GalleryLocalizations.of(context)!.shrineMenuCaption),
       controller: _controller,
     );
@@ -162,7 +162,7 @@ class _ShrineAppState extends State<ShrineApp>
           scrollBehavior:
               const MaterialScrollBehavior().copyWith(scrollbars: false),
           restorationScopeId: 'shrineApp',
-          title: 'Shrine',
+          title: 'Heights Culture',
           debugShowCheckedModeBanner: false,
           initialRoute: ShrineApp.loginRoute,
           routes: {

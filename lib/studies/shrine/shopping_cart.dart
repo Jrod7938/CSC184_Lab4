@@ -296,7 +296,6 @@ class ShoppingCartRow extends StatelessWidget {
                     children: [
                       Image.asset(
                         product.assetName,
-                        package: product.assetPackage,
                         fit: BoxFit.cover,
                         width: 75,
                         height: 75,

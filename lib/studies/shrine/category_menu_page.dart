@@ -124,7 +124,7 @@ class CategoryMenuPage extends StatelessWidget {
                   Semantics(
                     container: true,
                     child: Text(
-                      'SHRINE',
+                      'Heights Culture',
                       style: Theme.of(context).textTheme.headlineSmall,
                     ),
                   ),
